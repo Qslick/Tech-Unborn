@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491451105365">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491451197147">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="365584885" ref="index"/>
@@ -31,5 +31,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4147244678" seo="true" mt="1491451104248" redirect="true"/>
+  <file name="index.html" crc="3799470532" seo="true" mt="1491451196168" redirect="true"/>
 </manifest>
