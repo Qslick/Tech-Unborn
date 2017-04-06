@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491450545259">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491450978476">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="312317016" ref="index"/>
+    <file name="master_a-master.css" crc="4041572509" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3983926172" ref="index"/>
-    <file name="index.css" crc="4124968184" ref="index"/>
-    <file name="nomq_index.css" crc="216800347" ref="index"/>
+    <file name="index.css" crc="3961229018" ref="index"/>
+    <file name="nomq_index.css" crc="120463095" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -63,5 +63,5 @@
     </file>
     <file name="u1095-4.png" crc="204124833" ref="index"/>
   </folder>
-  <file name="index.html" crc="119360844" seo="true" mt="1491450542423" redirect="true"/>
+  <file name="index.html" crc="217510729" seo="true" mt="1491450976077" redirect="true"/>
 </manifest>
