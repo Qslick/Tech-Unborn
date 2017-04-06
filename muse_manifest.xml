@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491451042542">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491451105365">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4041572509" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3983926172" ref="index"/>
-    <file name="index.css" crc="3961229018" ref="index"/>
-    <file name="nomq_index.css" crc="120463095" ref="index"/>
+    <file name="index.css" crc="365584885" ref="index"/>
+    <file name="nomq_index.css" crc="211793942" ref="index"/>
+    <file name="master_a-master-copy.css" crc="268039087" ref="index"/>
+    <file name="nomq_preview_master_a-master-copy.css" crc="4228636461" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,11 +13,6 @@
     <file name="museconfig.js" crc="3849126041" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="form_check.php" crc="3841221102" ref="index"/>
-    <file name="form_throttle.php" crc="4048049783" ref="index"/>
-    <file name="form_process.php" crc="3899230280" ref="index"/>
-    <file name="form-u1472.php" crc="3830899283" ref="index"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
@@ -27,41 +22,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u248-4.png" crc="4249938217" ref="index"/>
-    <file name="elon-musk-portrait-e1399572239766.jpg" crc="42171266" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cmglee_cambridge_science_festival_2015_da_vinci.jpg" crc="131459143" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="voco-demoed-on-stage-760x380.jpg" crc="439683315" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="waymo-7591.jpg" crc="530590736" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u1468-4.png" crc="130547088" ref="index"/>
-    <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not.jpg" crc="316897106" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="161107120239-01-trump-parry-super-169.jpg" crc="3912512556" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ba.jpg" crc="381573588" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="planet art_00000.jpg" crc="4258315224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1857-4.png" crc="4249938217" ref="index"/>
+    <file name="u1858-4.png" crc="204124833" ref="index"/>
+    <file name="planet art_00000-crop-u1871.jpg" crc="58382049" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1095-4.png" crc="204124833" ref="index"/>
   </folder>
-  <file name="index.html" crc="217510729" seo="true" mt="1491450976077" redirect="true"/>
+  <file name="index.html" crc="4147244678" seo="true" mt="1491451104248" redirect="true"/>
 </manifest>
