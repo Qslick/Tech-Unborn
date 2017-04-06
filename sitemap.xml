@@ -5,6 +5,12 @@
     <lastmod>2017-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/dev.html</loc>
+    <lastmod>2017-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
     <image:image>
       <image:loc>http://techunborn.com/images/plus.svg</image:loc>
     </image:image>
@@ -14,12 +20,6 @@
     <image:image>
       <image:loc>http://techunborn.com/images/play-button-(6).svg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://techunborn.com/home.html</loc>
-    <lastmod>2017-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techunborn.com/assets/495545866.0.jpg</loc>
