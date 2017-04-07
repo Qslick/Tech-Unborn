@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491552989549">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491553071575">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -6,8 +6,8 @@
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="157740911" ref="index"/>
-    <file name="master_a-master.css" crc="3940683434" ref="dev:designer-babies"/>
-    <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev:designer-babies"/>
+    <file name="master_a-master.css" crc="4225076897" ref="dev:designer-babies"/>
+    <file name="nomq_preview_master_a-master.css" crc="275042783" ref="dev:designer-babies"/>
     <file name="master_b-master.css" crc="3939350606" ref="index"/>
     <file name="dev.css" crc="208357017" ref="dev"/>
     <file name="nomq_dev.css" crc="165983439" ref="dev"/>
@@ -34,7 +34,7 @@
     <file name="form_process.php" crc="3899230280" ref="dev"/>
     <file name="form-u4297.php" crc="4244788081" ref="dev"/>
     <file name="form-u4769.php" crc="61991800" ref="dev"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:dev:designer-babies"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:dev"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="dev:designer-babies"/>
@@ -133,6 +133,7 @@
     <file name="section-initial-touch.jpg" crc="4194260660" ref="dev:designer-babies">
       <caption webpage="index" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
     </file>
     <file name="ba.jpg" crc="329688762" ref="dev">
       <caption webpage="index" alt=""/>
@@ -476,6 +477,7 @@
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="dev:designer-babies">
       <caption webpage="index" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
     </file>
     <file name="u1327-43.png" crc="3921916222" ref="dev"/>
     <file name="section-initial-touch-u2813-fr2.jpg" crc="4150079481" ref="dev"/>
@@ -509,5 +511,5 @@
   </folder>
   <file name="index.html" crc="329420798" seo="true" mt="1491543339713" redirect="true"/>
   <file name="dev.html" crc="369526253" seo="true" mt="1491552955711" redirect="true"/>
-  <file name="designer-babies.html" crc="200904807" seo="true" mt="1491551872720" redirect="true"/>
+  <file name="designer-babies.html" crc="3888021717" seo="true" mt="1491553057077" redirect="true"/>
 </manifest>
