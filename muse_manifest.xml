@@ -1,22 +1,22 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491553071575">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491593015411">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="157740911" ref="index"/>
-    <file name="master_a-master.css" crc="4225076897" ref="dev:designer-babies"/>
-    <file name="nomq_preview_master_a-master.css" crc="275042783" ref="dev:designer-babies"/>
-    <file name="master_b-master.css" crc="3939350606" ref="index"/>
-    <file name="dev.css" crc="208357017" ref="dev"/>
-    <file name="nomq_dev.css" crc="165983439" ref="dev"/>
+    <file name="index.css" crc="329455325" ref="index"/>
+    <file name="master_a-master.css" crc="4258910257" ref="dev:designer-babies"/>
+    <file name="nomq_preview_master_a-master.css" crc="3813206181" ref="dev:designer-babies"/>
+    <file name="master_b-master.css" crc="9065039" ref="index"/>
+    <file name="dev.css" crc="3986592760" ref="dev"/>
+    <file name="nomq_dev.css" crc="406087766" ref="dev"/>
     <file name="master_blog-post-master.css" crc="292976278" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-master.css" crc="376754651" ref="designer-babies"/>
-    <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="index"/>
+    <file name="nomq_preview_master_b-master.css" crc="4071844664" ref="index"/>
     <file name="designer-babies.css" crc="510152454" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="3913590916" ref="designer-babies"/>
-    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+    <file name="nomq_index.css" crc="392487156" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dev:designer-babies"/>
@@ -25,7 +25,7 @@
     <file name="museconfig.js" crc="3849126041" ref="index:dev:designer-babies"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:dev:designer-babies"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:dev:designer-babies"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="dev:designer-babies"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="dev:designer-babies:index"/>
     <file name="require.js" crc="4234670167" ref="index:dev:designer-babies"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="dev"/>
     <file name="webpro.js" crc="3770351119" ref="dev"/>
@@ -37,7 +37,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:dev"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="dev:designer-babies"/>
+    <file name="blank.gif" crc="4208392903" ref="dev:designer-babies:index"/>
     <file name="jccdoquh.jpg" crc="404078506" ref="dev">
       <caption webpage="index" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -479,12 +479,13 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="designer-babies" alt=""/>
     </file>
-    <file name="u1327-43.png" crc="3921916222" ref="dev"/>
+    <file name="u1327-43.png" crc="4055267877" ref="dev"/>
     <file name="section-initial-touch-u2813-fr2.jpg" crc="4150079481" ref="dev"/>
-    <file name="u1327-44.png" crc="3921916222" ref="dev"/>
+    <file name="u1327-44.png" crc="252179234" ref="dev"/>
     <file name="u1327-45.png" crc="3921916222" ref="dev"/>
     <file name="u14258-4.png" crc="296457210" ref="index"/>
     <file name="nrcl6pi84.png" crc="398570338" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
     </file>
@@ -508,8 +509,9 @@
     <file name="u16536-r2.png" crc="4141493173" ref="designer-babies"/>
     <file name="u165542.png" crc="4030830733" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4093341051" ref="designer-babies"/>
+    <file name="section-initial-touch-u2813-fr3.jpg" crc="3813797665" ref="dev"/>
   </folder>
-  <file name="index.html" crc="329420798" seo="true" mt="1491543339713" redirect="true"/>
-  <file name="dev.html" crc="369526253" seo="true" mt="1491552955711" redirect="true"/>
+  <file name="index.html" crc="252766707" seo="true" mt="1491592961609" redirect="true"/>
+  <file name="dev.html" crc="470501896" seo="true" mt="1491592628353" redirect="true"/>
   <file name="designer-babies.html" crc="3888021717" seo="true" mt="1491553057077" redirect="true"/>
 </manifest>
