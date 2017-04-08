@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491666300039">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491666386718">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -13,8 +13,8 @@
     <file name="dev.css" crc="372305309" ref="dev"/>
     <file name="nomq_dev.css" crc="131267917" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="4141920004" ref="index"/>
-    <file name="designer-babies.css" crc="4100509358" ref="designer-babies"/>
-    <file name="nomq_designer-babies.css" crc="3875706656" ref="designer-babies"/>
+    <file name="designer-babies.css" crc="4159597557" ref="designer-babies"/>
+    <file name="nomq_designer-babies.css" crc="367416355" ref="designer-babies"/>
     <file name="nomq_index.css" crc="3910506613" ref="index"/>
     <file name="master_blog-post-independent.css" crc="364059452" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
@@ -535,5 +535,5 @@
   </folder>
   <file name="index.html" crc="315756323" seo="true" mt="1491638621251" redirect="true"/>
   <file name="dev.html" crc="4209499710" seo="true" mt="1491642572538" redirect="true"/>
-  <file name="designer-babies.html" crc="3787304637" seo="true" mt="1491666245964" redirect="true"/>
+  <file name="designer-babies.html" crc="228670404" seo="true" mt="1491666372130" redirect="true"/>
 </manifest>
