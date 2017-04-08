@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://techunborn.com/index.html</loc>
-    <lastmod>2017-04-07</lastmod>
+    <lastmod>2017-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techunborn.com/dev.html</loc>
-    <lastmod>2017-04-07</lastmod>
+    <lastmod>2017-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,19 +23,28 @@
   </url>
   <url>
     <loc>http://techunborn.com/designer-babies.html</loc>
-    <lastmod>2017-04-07</lastmod>
+    <lastmod>2017-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://techunborn.com/images/crisper2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/pebble1_2040.0.0.jpg</loc>
-    <lastmod>2017-04-06</lastmod>
+    <loc>http://techunborn.com/assets/vpavic_081216_1321_0006.0.0.jpeg</loc>
+    <lastmod>2017-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techunborn.com/assets/495545866.0.jpg</loc>
     <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/pebble1_2040.0.0.jpg</loc>
+    <lastmod>2017-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
