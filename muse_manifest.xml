@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491643606015">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491666300039">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
     <file name="vpavic_081216_1321_0006.0.0.jpeg" crc="238312555" seo="true" mt="1491640768000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4032741081"/>
+    <file name="site_global.css" crc="3870883528"/>
     <file name="index.css" crc="81036585" ref="index"/>
     <file name="master_a-master.css" crc="4057355014" ref="dev"/>
     <file name="nomq_preview_master_a-master.css" crc="343474221" ref="dev"/>
@@ -13,10 +13,10 @@
     <file name="dev.css" crc="372305309" ref="dev"/>
     <file name="nomq_dev.css" crc="131267917" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="4141920004" ref="index"/>
-    <file name="designer-babies.css" crc="348896141" ref="designer-babies"/>
-    <file name="nomq_designer-babies.css" crc="3848914932" ref="designer-babies"/>
+    <file name="designer-babies.css" crc="4100509358" ref="designer-babies"/>
+    <file name="nomq_designer-babies.css" crc="3875706656" ref="designer-babies"/>
     <file name="nomq_index.css" crc="3910506613" ref="index"/>
-    <file name="master_blog-post-independent.css" crc="362082218" ref="designer-babies"/>
+    <file name="master_blog-post-independent.css" crc="364059452" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
   </folder>
   <folder name="scripts">
@@ -189,10 +189,6 @@
     <file name="elon-musk-portrait-e1399572239766.jpg" crc="43221204" ref="designer-babies">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
@@ -494,15 +490,16 @@
     <file name="u16536-r.png" crc="3994598690" ref="designer-babies"/>
     <file name="19767_rocket_launch_space_shuttle_liftoff-u17407-fr.jpg" crc="4119804745" ref="designer-babies"/>
     <file name="waymo-7591-u17418-fr.jpg" crc="3783825902" ref="designer-babies"/>
-    <file name="u165222.png" crc="219280110" ref="designer-babies"/>
-    <file name="u16522-r2.png" crc="4192065944" ref="designer-babies"/>
-    <file name="u165292.png" crc="439570607" ref="designer-babies"/>
-    <file name="u16529-r2.png" crc="159075061" ref="designer-babies"/>
-    <file name="u165362.png" crc="3870574273" ref="designer-babies"/>
-    <file name="u16536-r2.png" crc="4141493173" ref="designer-babies"/>
-    <file name="u165542.png" crc="4030830733" ref="designer-babies"/>
-    <file name="u16554-r2.png" crc="4093341051" ref="designer-babies"/>
+    <file name="u165222.png" crc="165255071" ref="designer-babies"/>
+    <file name="u16522-r2.png" crc="4117297567" ref="designer-babies"/>
+    <file name="u165292.png" crc="4178672553" ref="designer-babies"/>
+    <file name="u16529-r2.png" crc="479078882" ref="designer-babies"/>
+    <file name="u165362.png" crc="427905761" ref="designer-babies"/>
+    <file name="u16536-r2.png" crc="4168203020" ref="designer-babies"/>
+    <file name="u165542.png" crc="3827532742" ref="designer-babies"/>
+    <file name="u16554-r2.png" crc="4197171310" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies">
+      <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -516,8 +513,10 @@
     <file name="crisper2.jpg" crc="4270833606" seo="true" ref="designer-babies">
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
     </file>
     <file name="deformed.jpg" crc="129216526" ref="designer-babies">
+      <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
     </file>
@@ -525,10 +524,16 @@
     <file name="u31366-4.png" crc="3881402886" ref="designer-babies"/>
     <file name="u32787-4.png" crc="3833830006" ref="designer-babies"/>
     <file name="crispr-u28370-fr.jpg" crc="118978647" ref="designer-babies"/>
-    <file name="u31360-42.png" crc="161432140" ref="designer-babies"/>
-    <file name="u31366-42.png" crc="4187667916" ref="designer-babies"/>
+    <file name="u165543.png" crc="4030830733" ref="designer-babies"/>
+    <file name="u16554-r3.png" crc="4093341051" ref="designer-babies"/>
+    <file name="u165223.png" crc="219280110" ref="designer-babies"/>
+    <file name="u16522-r3.png" crc="4192065944" ref="designer-babies"/>
+    <file name="u165293.png" crc="439570607" ref="designer-babies"/>
+    <file name="u16529-r3.png" crc="159075061" ref="designer-babies"/>
+    <file name="u165363.png" crc="3870574273" ref="designer-babies"/>
+    <file name="u16536-r3.png" crc="4141493173" ref="designer-babies"/>
   </folder>
   <file name="index.html" crc="315756323" seo="true" mt="1491638621251" redirect="true"/>
   <file name="dev.html" crc="4209499710" seo="true" mt="1491642572538" redirect="true"/>
-  <file name="designer-babies.html" crc="514508186" seo="true" mt="1491643526060" redirect="true"/>
+  <file name="designer-babies.html" crc="3787304637" seo="true" mt="1491666245964" redirect="true"/>
 </manifest>
