@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491706887343">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491707537003">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -6,20 +6,20 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
-    <file name="index.css" crc="81036585" ref="index"/>
+    <file name="index.css" crc="356218685" ref="index"/>
     <file name="master_a-master.css" crc="3951549748" ref="dev:dev-copy"/>
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev:dev-copy"/>
-    <file name="master_b-master.css" crc="3958442332" ref="index"/>
+    <file name="master_b-master.css" crc="4246515464" ref="index"/>
     <file name="dev.css" crc="442084552" ref="dev"/>
     <file name="nomq_dev.css" crc="3899696579" ref="dev"/>
-    <file name="nomq_preview_master_b-master.css" crc="4141920004" ref="index"/>
+    <file name="nomq_preview_master_b-master.css" crc="231463134" ref="index"/>
     <file name="designer-babies.css" crc="3787600761" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="62018982" ref="designer-babies"/>
-    <file name="nomq_index.css" crc="3910506613" ref="index"/>
+    <file name="nomq_index.css" crc="379456129" ref="index"/>
     <file name="master_blog-post-independent.css" crc="440203538" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
-    <file name="dev-copy.css" crc="4278199178" ref="dev-copy"/>
-    <file name="nomq_dev-copy.css" crc="367489134" ref="dev-copy"/>
+    <file name="dev-copy.css" crc="217901987" ref="dev-copy"/>
+    <file name="nomq_dev-copy.css" crc="441582368" ref="dev-copy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dev:designer-babies:dev-copy"/>
@@ -37,7 +37,7 @@
     <file name="form_process.php" crc="3899230280" ref="dev:dev-copy"/>
     <file name="form-u4297.php" crc="4244788081" ref="dev"/>
     <file name="form-u4769.php" crc="4094892685" ref="dev"/>
-    <file name="html5shiv.js" crc="4241844378" ref="dev:index:designer-babies:dev-copy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="dev:designer-babies:dev-copy"/>
     <file name="form-u79564.php" crc="4268898489" ref="dev-copy"/>
     <file name="form-u79685.php" crc="3954814784" ref="dev-copy"/>
   </folder>
@@ -933,8 +933,8 @@
     <file name="u79766-47.png" crc="4160844091" ref="dev-copy"/>
     <file name="u79766-48.png" crc="453959604" ref="dev-copy"/>
   </folder>
-  <file name="index.html" crc="315756323" seo="true" mt="1491638621251" redirect="true"/>
+  <file name="index.html" crc="3861046239" seo="true" mt="1491707504215" redirect="true"/>
   <file name="dev.html" crc="501272625" seo="true" mt="1491703276537" redirect="true"/>
   <file name="designer-babies.html" crc="20073232" seo="true" mt="1491700423004" redirect="true"/>
-  <file name="dev-copy.html" crc="4046986272" seo="true" mt="1491706798836" redirect="true"/>
+  <file name="dev-copy.html" crc="535815802" seo="true" mt="1491707414844" redirect="true"/>
 </manifest>
