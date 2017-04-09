@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491697340515">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491697737285">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -10,8 +10,8 @@
     <file name="master_a-master.css" crc="3951549748" ref="dev"/>
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev"/>
     <file name="master_b-master.css" crc="3958442332" ref="index"/>
-    <file name="dev.css" crc="201717016" ref="dev"/>
-    <file name="nomq_dev.css" crc="3826730882" ref="dev"/>
+    <file name="dev.css" crc="83914072" ref="dev"/>
+    <file name="nomq_dev.css" crc="517127916" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="4141920004" ref="index"/>
     <file name="designer-babies.css" crc="3773159118" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="4242174200" ref="designer-babies"/>
@@ -34,7 +34,7 @@
     <file name="form_throttle.php" crc="4048049783" ref="dev"/>
     <file name="form_process.php" crc="3899230280" ref="dev"/>
     <file name="form-u4297.php" crc="4244788081" ref="dev"/>
-    <file name="form-u4769.php" crc="61991800" ref="dev"/>
+    <file name="form-u4769.php" crc="4094892685" ref="dev"/>
     <file name="html5shiv.js" crc="4241844378" ref="dev:index:designer-babies"/>
   </folder>
   <folder name="images">
@@ -644,6 +644,6 @@
     <file name="u1327-48.png" crc="453959604" ref="dev"/>
   </folder>
   <file name="index.html" crc="315756323" seo="true" mt="1491638621251" redirect="true"/>
-  <file name="dev.html" crc="125159063" seo="true" mt="1491697300102" redirect="true"/>
+  <file name="dev.html" crc="430379627" seo="true" mt="1491697660385" redirect="true"/>
   <file name="designer-babies.html" crc="3767902814" seo="true" mt="1491683556760" redirect="true"/>
 </manifest>
