@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491700567516">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491703325788">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -7,11 +7,11 @@
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
     <file name="index.css" crc="81036585" ref="index"/>
-    <file name="master_a-master.css" crc="3994542132" ref="dev"/>
-    <file name="nomq_preview_master_a-master.css" crc="4174458775" ref="dev"/>
+    <file name="master_a-master.css" crc="3951549748" ref="dev"/>
+    <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev"/>
     <file name="master_b-master.css" crc="3958442332" ref="index"/>
-    <file name="dev.css" crc="115720410" ref="dev"/>
-    <file name="nomq_dev.css" crc="4255950342" ref="dev"/>
+    <file name="dev.css" crc="442084552" ref="dev"/>
+    <file name="nomq_dev.css" crc="3899696579" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="4141920004" ref="index"/>
     <file name="designer-babies.css" crc="3787600761" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="62018982" ref="designer-babies"/>
@@ -645,6 +645,6 @@
     <file name="u1327-48.png" crc="453959604" ref="dev"/>
   </folder>
   <file name="index.html" crc="315756323" seo="true" mt="1491638621251" redirect="true"/>
-  <file name="dev.html" crc="4023476201" seo="true" mt="1491700357301" redirect="true"/>
+  <file name="dev.html" crc="501272625" seo="true" mt="1491703276537" redirect="true"/>
   <file name="designer-babies.html" crc="20073232" seo="true" mt="1491700423004" redirect="true"/>
 </manifest>
