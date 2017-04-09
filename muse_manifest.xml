@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491681668692">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491696953058">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -7,14 +7,14 @@
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
     <file name="index.css" crc="81036585" ref="index"/>
-    <file name="master_a-master.css" crc="4057355014" ref="dev"/>
-    <file name="nomq_preview_master_a-master.css" crc="343474221" ref="dev"/>
+    <file name="master_a-master.css" crc="3994542132" ref="dev"/>
+    <file name="nomq_preview_master_a-master.css" crc="4174458775" ref="dev"/>
     <file name="master_b-master.css" crc="3958442332" ref="index"/>
-    <file name="dev.css" crc="372305309" ref="dev"/>
-    <file name="nomq_dev.css" crc="131267917" ref="dev"/>
+    <file name="dev.css" crc="4130407691" ref="dev"/>
+    <file name="nomq_dev.css" crc="4255950342" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="4141920004" ref="index"/>
-    <file name="designer-babies.css" crc="4147173175" ref="designer-babies"/>
-    <file name="nomq_designer-babies.css" crc="3866366952" ref="designer-babies"/>
+    <file name="designer-babies.css" crc="3773159118" ref="designer-babies"/>
+    <file name="nomq_designer-babies.css" crc="4242174200" ref="designer-babies"/>
     <file name="nomq_index.css" crc="3910506613" ref="index"/>
     <file name="master_blog-post-independent.css" crc="440203538" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
@@ -35,7 +35,7 @@
     <file name="form_process.php" crc="3899230280" ref="dev"/>
     <file name="form-u4297.php" crc="4244788081" ref="dev"/>
     <file name="form-u4769.php" crc="61991800" ref="dev"/>
-    <file name="html5shiv.js" crc="4241844378" ref="dev:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="dev:index:designer-babies"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="dev:designer-babies:index"/>
@@ -43,7 +43,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="dev" alt=""/>
     </file>
-    <file name="u1327-4.png" crc="3921916222" ref="dev"/>
+    <file name="u1327-4.png" crc="4205093912" ref="dev"/>
     <file name="plus.svg" crc="3847780192" seo="true" ref="dev">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -58,7 +58,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -99,7 +98,6 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
     </file>
     <file name="download-symbol_poster_.png" crc="232288092" ref="dev"/>
     <file name="play-button-(6).svg" crc="3961079179" seo="true" ref="dev">
@@ -128,7 +126,6 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
     </file>
     <file name="play-button (6)_poster_.png" crc="126068632" ref="dev"/>
     <file name="ba.jpg" crc="329688762" ref="dev">
@@ -142,12 +139,18 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="waymo-7591.jpg" crc="4111943414" ref="dev">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -166,6 +169,9 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="space b2.jpg" crc="4248253917" ref="dev">
       <caption webpage="index" alt=""/>
@@ -173,6 +179,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -217,6 +226,9 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="18574_rocket_launch_space_shuttle_launch.jpg" crc="4269344129" ref="dev">
       <caption webpage="index" alt=""/>
@@ -224,6 +236,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -241,6 +256,9 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="waymo-7591-u5275-fr.jpg" crc="174422448" ref="dev"/>
     <file name="james breedlove.jpg" crc="379684687" ref="dev">
@@ -249,6 +267,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -281,6 +302,21 @@
       <caption webpage="index" alt="Name"/>
       <caption webpage="index" alt="Name"/>
       <caption webpage="index" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
+      <caption webpage="dev" alt="Name"/>
       <caption webpage="dev" alt="Name"/>
       <caption webpage="dev" alt="Name"/>
       <caption webpage="dev" alt="Name"/>
@@ -358,6 +394,21 @@
       <caption webpage="dev" alt="Email"/>
       <caption webpage="dev" alt="Email"/>
       <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
+      <caption webpage="dev" alt="Email"/>
     </file>
     <file name="web.jpg" crc="3801575601" ref="dev">
       <caption webpage="index" alt="Website"/>
@@ -385,6 +436,21 @@
       <caption webpage="index" alt="Website"/>
       <caption webpage="index" alt="Website"/>
       <caption webpage="index" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
+      <caption webpage="dev" alt="Website"/>
       <caption webpage="dev" alt="Website"/>
       <caption webpage="dev" alt="Website"/>
       <caption webpage="dev" alt="Website"/>
@@ -462,17 +528,32 @@
       <caption webpage="dev" alt="Phone"/>
       <caption webpage="dev" alt="Phone"/>
       <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
+      <caption webpage="dev" alt="Phone"/>
     </file>
     <file name="u1439-4.png" crc="3833830006" ref="dev"/>
-    <file name="u1327-42.png" crc="3921916222" ref="dev"/>
+    <file name="u1327-42.png" crc="4205093912" ref="dev"/>
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="dev:designer-babies">
       <caption webpage="index" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="designer-babies" alt=""/>
     </file>
-    <file name="u1327-43.png" crc="4055267877" ref="dev"/>
-    <file name="u1327-44.png" crc="252179234" ref="dev"/>
-    <file name="u1327-45.png" crc="3921916222" ref="dev"/>
+    <file name="u1327-43.png" crc="50644391" ref="dev"/>
+    <file name="u1327-44.png" crc="4248695072" ref="dev"/>
+    <file name="u1327-45.png" crc="4828782" ref="dev"/>
     <file name="u14258-4.png" crc="296457210" ref="index"/>
     <file name="nrcl6pi84.png" crc="398570338" ref="index">
       <caption webpage="index" alt=""/>
@@ -490,23 +571,26 @@
     <file name="u16536-r.png" crc="3994598690" ref="designer-babies"/>
     <file name="19767_rocket_launch_space_shuttle_liftoff-u17407-fr.jpg" crc="4119804745" ref="designer-babies"/>
     <file name="waymo-7591-u17418-fr.jpg" crc="3783825902" ref="designer-babies"/>
-    <file name="u165222.png" crc="99309996" ref="designer-babies"/>
-    <file name="u16522-r2.png" crc="78731421" ref="designer-babies"/>
-    <file name="u165292.png" crc="4123009379" ref="designer-babies"/>
-    <file name="u16529-r2.png" crc="4101327175" ref="designer-babies"/>
-    <file name="u165362.png" crc="4203451042" ref="designer-babies"/>
-    <file name="u16536-r2.png" crc="113990524" ref="designer-babies"/>
-    <file name="u165542.png" crc="503292734" ref="designer-babies"/>
-    <file name="u16554-r2.png" crc="4133037331" ref="designer-babies"/>
+    <file name="u165222.png" crc="183587077" ref="designer-babies"/>
+    <file name="u16522-r2.png" crc="4126109571" ref="designer-babies"/>
+    <file name="u165292.png" crc="57702642" ref="designer-babies"/>
+    <file name="u16529-r2.png" crc="150988885" ref="designer-babies"/>
+    <file name="u165362.png" crc="52672247" ref="designer-babies"/>
+    <file name="u16536-r2.png" crc="62839029" ref="designer-babies"/>
+    <file name="u165542.png" crc="319165955" ref="designer-babies"/>
+    <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies">
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
     </file>
     <file name="baby-u2813-fr.jpg" crc="421265172" ref="dev"/>
-    <file name="baby-u2813-fr2.jpg" crc="245805414" ref="dev"/>
-    <file name="u32799-4.png" crc="3813785239" ref="designer-babies"/>
+    <file name="u32799-4.png" crc="34134976" ref="designer-babies"/>
     <file name="crispr.jpg" crc="3767265772" ref="designer-babies">
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
@@ -529,35 +613,38 @@
     <file name="u31366-4.png" crc="3881402886" ref="designer-babies"/>
     <file name="u32787-4.png" crc="3833830006" ref="designer-babies"/>
     <file name="crispr-u28370-fr.jpg" crc="4001850251" ref="designer-babies"/>
-    <file name="u165543.png" crc="529355337" ref="designer-babies"/>
-    <file name="u16554-r3.png" crc="3972318722" ref="designer-babies"/>
-    <file name="u165223.png" crc="186616735" ref="designer-babies"/>
-    <file name="u16522-r3.png" crc="4019286799" ref="designer-babies"/>
-    <file name="u165293.png" crc="3761590928" ref="designer-babies"/>
-    <file name="u16529-r3.png" crc="288816558" ref="designer-babies"/>
-    <file name="u165363.png" crc="4067222204" ref="designer-babies"/>
-    <file name="u16536-r3.png" crc="4191803948" ref="designer-babies"/>
-    <file name="u165544.png" crc="4214199943" ref="designer-babies"/>
-    <file name="u16554-r4.png" crc="262378447" ref="designer-babies"/>
-    <file name="u165224.png" crc="28133974" ref="designer-babies"/>
-    <file name="u16522-r4.png" crc="326595707" ref="designer-babies"/>
-    <file name="u165294.png" crc="3933268193" ref="designer-babies"/>
-    <file name="u16529-r4.png" crc="3764155117" ref="designer-babies"/>
-    <file name="u165364.png" crc="4074936431" ref="designer-babies"/>
-    <file name="u16536-r4.png" crc="256144658" ref="designer-babies"/>
+    <file name="u165543.png" crc="204397972" ref="designer-babies"/>
+    <file name="u16554-r3.png" crc="4223048" ref="designer-babies"/>
+    <file name="u165223.png" crc="79268255" ref="designer-babies"/>
+    <file name="u16522-r3.png" crc="4004807834" ref="designer-babies"/>
+    <file name="u165293.png" crc="3891223525" ref="designer-babies"/>
+    <file name="u16529-r3.png" crc="241648166" ref="designer-babies"/>
+    <file name="u165363.png" crc="153671838" ref="designer-babies"/>
+    <file name="u16536-r3.png" crc="77733415" ref="designer-babies"/>
+    <file name="u165544.png" crc="378752838" ref="designer-babies"/>
+    <file name="u16554-r4.png" crc="519132056" ref="designer-babies"/>
+    <file name="u165224.png" crc="164649379" ref="designer-babies"/>
+    <file name="u16522-r4.png" crc="4179256853" ref="designer-babies"/>
+    <file name="u165294.png" crc="3824317652" ref="designer-babies"/>
+    <file name="u16529-r4.png" crc="333310611" ref="designer-babies"/>
+    <file name="u165364.png" crc="4183401672" ref="designer-babies"/>
+    <file name="u16536-r4.png" crc="325206213" ref="designer-babies"/>
     <file name="baby-u16725-fr.jpg" crc="4210365873" ref="designer-babies"/>
-    <file name="u165545.png" crc="517383514" ref="designer-babies"/>
-    <file name="u16554-r5.png" crc="3839108570" ref="designer-babies"/>
-    <file name="u165225.png" crc="4040309993" ref="designer-babies"/>
-    <file name="u16522-r5.png" crc="4125776146" ref="designer-babies"/>
-    <file name="u165295.png" crc="473139274" ref="designer-babies"/>
-    <file name="u16529-r5.png" crc="8828068" ref="designer-babies"/>
-    <file name="u165365.png" crc="84382345" ref="designer-babies"/>
-    <file name="u16536-r5.png" crc="33177989" ref="designer-babies"/>
+    <file name="u165545.png" crc="4157067765" ref="designer-babies"/>
+    <file name="u16554-r5.png" crc="77670106" ref="designer-babies"/>
+    <file name="u165225.png" crc="507762262" ref="designer-babies"/>
+    <file name="u16522-r5.png" crc="535121231" ref="designer-babies"/>
+    <file name="u165295.png" crc="41083977" ref="designer-babies"/>
+    <file name="u16529-r5.png" crc="171636822" ref="designer-babies"/>
+    <file name="u165365.png" crc="121235991" ref="designer-babies"/>
+    <file name="u16536-r5.png" crc="468604445" ref="designer-babies"/>
     <file name="baby-u16725-fr2.jpg" crc="4222963697" ref="designer-babies"/>
     <file name="crispr-u28370-fr2.jpg" crc="118978647" ref="designer-babies"/>
+    <file name="u1327-46.png" crc="3979009588" ref="dev"/>
+    <file name="u1327-47.png" crc="4160844091" ref="dev"/>
+    <file name="u1327-48.png" crc="453959604" ref="dev"/>
   </folder>
   <file name="index.html" crc="315756323" seo="true" mt="1491638621251" redirect="true"/>
-  <file name="dev.html" crc="4209499710" seo="true" mt="1491642572538" redirect="true"/>
-  <file name="designer-babies.html" crc="523019042" seo="true" mt="1491681663503" redirect="true"/>
+  <file name="dev.html" crc="77075440" seo="true" mt="1491696883358" redirect="true"/>
+  <file name="designer-babies.html" crc="3767902814" seo="true" mt="1491683556760" redirect="true"/>
 </manifest>
