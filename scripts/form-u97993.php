@@ -31,7 +31,7 @@ $form = array(
 		'to' => 'sean.kimbell@rockdalecounty.org'
 	),
 	'fields' => array(
-		'custom_U79572' => array(
+		'custom_U98001' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
@@ -50,7 +50,7 @@ $form = array(
 				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U79576' => array(
+		'custom_U98005' => array(
 			'order' => 3,
 			'type' => 'string',
 			'label' => 'Message',

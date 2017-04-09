@@ -31,7 +31,7 @@ $form = array(
 		'to' => 'qslick04@gmail.com'
 	),
 	'fields' => array(
-		'custom_U79696' => array(
+		'custom_U98125' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
@@ -50,7 +50,7 @@ $form = array(
 				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U79701' => array(
+		'custom_U98130' => array(
 			'order' => 2,
 			'type' => 'string',
 			'label' => 'Message',
@@ -58,7 +58,7 @@ $form = array(
 			'errors' => array(
 			)
 		),
-		'custom_U79687' => array(
+		'custom_U98116' => array(
 			'order' => 3,
 			'type' => 'string',
 			'label' => 'Website',
@@ -67,7 +67,7 @@ $form = array(
 				'required' => 'Field \'Website\' is required.'
 			)
 		),
-		'custom_U79706' => array(
+		'custom_U98135' => array(
 			'order' => 5,
 			'type' => 'string',
 			'label' => 'Cell Phone',

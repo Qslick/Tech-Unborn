@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491707537003">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491774722047">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -7,47 +7,46 @@
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
     <file name="index.css" crc="356218685" ref="index"/>
-    <file name="master_a-master.css" crc="3951549748" ref="dev:dev-copy"/>
-    <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev:dev-copy"/>
+    <file name="master_a-master.css" crc="3994542132" ref="dev:dev-copy"/>
+    <file name="nomq_preview_master_a-master.css" crc="4174458775" ref="dev:dev-copy"/>
     <file name="master_b-master.css" crc="4246515464" ref="index"/>
-    <file name="dev.css" crc="442084552" ref="dev"/>
-    <file name="nomq_dev.css" crc="3899696579" ref="dev"/>
+    <file name="dev.css" crc="467177184" ref="dev"/>
+    <file name="nomq_dev.css" crc="3850354329" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="231463134" ref="index"/>
     <file name="designer-babies.css" crc="3787600761" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="62018982" ref="designer-babies"/>
     <file name="nomq_index.css" crc="379456129" ref="index"/>
     <file name="master_blog-post-independent.css" crc="440203538" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
-    <file name="dev-copy.css" crc="217901987" ref="dev-copy"/>
-    <file name="nomq_dev-copy.css" crc="441582368" ref="dev-copy"/>
+    <file name="dev-copy.css" crc="494786690" ref="dev-copy"/>
+    <file name="nomq_dev-copy.css" crc="32628102" ref="dev-copy"/>
+    <file name="master_blog-post-independent-copy.css" crc="4038353197" ref="spacex"/>
+    <file name="nomq_preview_master_blog-post-independent-copy.css" crc="290028330" ref="spacex"/>
+    <file name="spacex.css" crc="3815554811" ref="spacex"/>
+    <file name="nomq_spacex.css" crc="337574543" ref="spacex"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dev:designer-babies:dev-copy"/>
-    <file name="museutils.js" crc="4232573551" ref="index:dev:designer-babies:dev-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:dev:designer-babies:dev-copy"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:dev:designer-babies:dev-copy"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:dev:designer-babies:dev-copy"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:dev:designer-babies:dev-copy"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="dev:designer-babies:index:dev-copy"/>
-    <file name="require.js" crc="4234670167" ref="index:dev:designer-babies:dev-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dev:designer-babies:dev-copy:spacex"/>
+    <file name="museutils.js" crc="4232573551" ref="index:dev:designer-babies:dev-copy:spacex"/>
+    <file name="whatinput.js" crc="86476730" ref="index:dev:designer-babies:dev-copy:spacex"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:dev:designer-babies:dev-copy:spacex"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:dev:designer-babies:dev-copy:spacex"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:dev:designer-babies:dev-copy:spacex"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="dev:designer-babies:index:dev-copy:spacex"/>
+    <file name="require.js" crc="4234670167" ref="index:dev:designer-babies:dev-copy:spacex"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="dev:dev-copy"/>
     <file name="webpro.js" crc="3770351119" ref="dev:dev-copy"/>
-    <file name="form_check.php" crc="3841221102" ref="dev:dev-copy"/>
-    <file name="form_throttle.php" crc="4048049783" ref="dev:dev-copy"/>
-    <file name="form_process.php" crc="3899230280" ref="dev:dev-copy"/>
+    <file name="form_check.php" crc="3841221102" ref="dev"/>
+    <file name="form_throttle.php" crc="4048049783" ref="dev"/>
+    <file name="form_process.php" crc="3899230280" ref="dev"/>
     <file name="form-u4297.php" crc="4244788081" ref="dev"/>
     <file name="form-u4769.php" crc="4094892685" ref="dev"/>
-    <file name="html5shiv.js" crc="4241844378" ref="dev:designer-babies:dev-copy"/>
-    <file name="form-u79564.php" crc="4268898489" ref="dev-copy"/>
-    <file name="form-u79685.php" crc="3954814784" ref="dev-copy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="dev:designer-babies:dev-copy:spacex"/>
+    <file name="form-u97993.php" crc="200061228" ref="dev-copy"/>
+    <file name="form-u98114.php" crc="3919058624" ref="dev-copy"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="dev:designer-babies:index:dev-copy"/>
-    <file name="jccdoquh.jpg" crc="404078506" ref="dev:dev-copy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="dev:designer-babies:index:dev-copy:spacex"/>
     <file name="u1327-4.png" crc="4205093912" ref="dev"/>
     <file name="plus.svg" crc="3847780192" seo="true" ref="dev:dev-copy">
       <caption webpage="index" alt=""/>
@@ -88,7 +87,7 @@
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
     </file>
-    <file name="plus_poster_.png" crc="74978445" ref="dev:dev-copy"/>
+    <file name="plus_poster_.png" crc="74978445" ref="dev"/>
     <file name="download-symbol.svg" crc="330995982" seo="true" ref="dev:dev-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -128,7 +127,7 @@
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
     </file>
-    <file name="download-symbol_poster_.png" crc="232288092" ref="dev:dev-copy"/>
+    <file name="download-symbol_poster_.png" crc="232288092" ref="dev"/>
     <file name="play-button-(6).svg" crc="3961079179" seo="true" ref="dev:dev-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -168,7 +167,7 @@
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
     </file>
-    <file name="play-button (6)_poster_.png" crc="126068632" ref="dev:dev-copy"/>
+    <file name="play-button (6)_poster_.png" crc="126068632" ref="dev"/>
     <file name="ba.jpg" crc="329688762" ref="dev:dev-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -204,7 +203,6 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -261,7 +259,7 @@
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
     </file>
-    <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not-u3843-fr.jpg" crc="4257510453" ref="dev"/>
+    <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not-u3843-fr.jpg" crc="4257510453" ref="dev:dev-copy"/>
     <file name="6641165420.jpg" crc="3902929398" ref="dev:dev-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -270,7 +268,7 @@
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
     </file>
-    <file name="elon-musk-portrait-e1399572239766.jpg" crc="43221204" ref="designer-babies">
+    <file name="elon-musk-portrait-e1399572239766.jpg" crc="43221204" ref="designer-babies:spacex">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -279,6 +277,10 @@
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
     </file>
     <file name="mars-house.jpg" crc="40647797" ref="dev:dev-copy">
       <caption webpage="index" alt=""/>
@@ -363,7 +365,7 @@
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
     </file>
-    <file name="waymo-7591-u5275-fr.jpg" crc="174422448" ref="dev"/>
+    <file name="waymo-7591-u5275-fr.jpg" crc="174422448" ref="dev:dev-copy"/>
     <file name="james breedlove.jpg" crc="379684687" ref="dev:dev-copy">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -817,7 +819,7 @@
     </file>
     <file name="u1439-4.png" crc="3833830006" ref="dev:dev-copy"/>
     <file name="u1327-42.png" crc="4205093912" ref="dev"/>
-    <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="dev:designer-babies:dev-copy">
+    <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="dev:designer-babies:dev-copy:spacex">
       <caption webpage="index" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -832,7 +834,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="home" alt=""/>
     </file>
-    <file name="elon-musk-portrait-e1399572239766-u4200-fr.jpg" crc="3999235018" ref="dev"/>
+    <file name="elon-musk-portrait-e1399572239766-u4200-fr.jpg" crc="3999235018" ref="dev:dev-copy"/>
     <file name="u16554.png" crc="474133425" ref="designer-babies"/>
     <file name="u16554-r.png" crc="253430852" ref="designer-babies"/>
     <file name="u16522.png" crc="4026455063" ref="designer-babies"/>
@@ -851,12 +853,7 @@
     <file name="u16536-r2.png" crc="62839029" ref="designer-babies"/>
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
-    <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies:dev-copy">
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
+    <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies:dev-copy:spacex">
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -865,26 +862,46 @@
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
     </file>
-    <file name="baby-u2813-fr.jpg" crc="421265172" ref="dev"/>
+    <file name="baby-u2813-fr.jpg" crc="421265172" ref="dev:dev-copy"/>
     <file name="u32799-4.png" crc="34134976" ref="designer-babies"/>
-    <file name="crispr.jpg" crc="3767265772" ref="designer-babies">
+    <file name="crispr.jpg" crc="3767265772" ref="designer-babies:spacex">
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
     </file>
-    <file name="crisper2.jpg" crc="4270833606" seo="true" ref="designer-babies">
+    <file name="crisper2.jpg" crc="4270833606" seo="true" ref="designer-babies:spacex">
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
     </file>
-    <file name="deformed.jpg" crc="129216526" ref="designer-babies">
+    <file name="deformed.jpg" crc="129216526" ref="designer-babies:spacex">
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
     </file>
     <file name="u31360-4.png" crc="4000534475" ref="designer-babies"/>
     <file name="u31366-4.png" crc="3881402886" ref="designer-babies"/>
@@ -920,21 +937,84 @@
     <file name="u1327-46.png" crc="3979009588" ref="dev"/>
     <file name="u1327-47.png" crc="4160844091" ref="dev"/>
     <file name="u1327-48.png" crc="453959604" ref="dev"/>
-    <file name="u79766-4.png" crc="4205093912" ref="dev-copy"/>
-    <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not-u79716-fr.jpg" crc="4257510453" ref="dev-copy"/>
-    <file name="elon-musk-portrait-e1399572239766-u79745-fr.jpg" crc="3999235018" ref="dev-copy"/>
-    <file name="waymo-7591-u79591-fr.jpg" crc="174422448" ref="dev-copy"/>
-    <file name="u79766-42.png" crc="4205093912" ref="dev-copy"/>
-    <file name="baby-u79671-fr.jpg" crc="421265172" ref="dev-copy"/>
-    <file name="u79766-43.png" crc="50644391" ref="dev-copy"/>
-    <file name="u79766-44.png" crc="4248695072" ref="dev-copy"/>
-    <file name="u79766-45.png" crc="4828782" ref="dev-copy"/>
-    <file name="u79766-46.png" crc="3979009588" ref="dev-copy"/>
-    <file name="u79766-47.png" crc="4160844091" ref="dev-copy"/>
-    <file name="u79766-48.png" crc="453959604" ref="dev-copy"/>
+    <file name="spacex-81773.jpg" crc="3802512353" ref="dev:dev-copy">
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev" alt=""/>
+    </file>
+    <file name="spacex-81773-u1275-fr.jpg" crc="4262957171" ref="dev:dev-copy"/>
+    <file name="spacex-81773-u1275-fr2.jpg" crc="183832779" ref="dev:dev-copy"/>
+    <file name="spacex-81773-u1275-fr3.jpg" crc="3823092553" ref="dev:dev-copy"/>
+    <file name="spacex-81773-u1275-fr4.jpg" crc="4102152637" ref="dev:dev-copy"/>
+    <file name="spacex-81773-u1275-fr5.jpg" crc="133046818" ref="dev:dev-copy"/>
+    <file name="u98195-4.png" crc="4205093912" ref="dev-copy"/>
+    <file name="u98195-42.png" crc="4205093912" ref="dev-copy"/>
+    <file name="u98195-43.png" crc="50644391" ref="dev-copy"/>
+    <file name="u98195-44.png" crc="4248695072" ref="dev-copy"/>
+    <file name="u98195-45.png" crc="4828782" ref="dev-copy"/>
+    <file name="u98195-46.png" crc="3979009588" ref="dev-copy"/>
+    <file name="u98195-47.png" crc="4160844091" ref="dev-copy"/>
+    <file name="u98195-48.png" crc="453959604" ref="dev-copy"/>
+    <file name="nasa-43566.jpg" crc="55068936" ref="spacex">
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+    </file>
+    <file name="u100454-4.png" crc="34134976" ref="spacex"/>
+    <file name="u99026.png" crc="474133425" ref="spacex"/>
+    <file name="u99026-r.png" crc="253430852" ref="spacex"/>
+    <file name="u99030.png" crc="4026455063" ref="spacex"/>
+    <file name="u99030-r.png" crc="458751322" ref="spacex"/>
+    <file name="u99032.png" crc="4213624313" ref="spacex"/>
+    <file name="u99032-r.png" crc="3891942256" ref="spacex"/>
+    <file name="u99028.png" crc="451044340" ref="spacex"/>
+    <file name="u99028-r.png" crc="3994598690" ref="spacex"/>
+    <file name="19767_rocket_launch_space_shuttle_liftoff-u98991-fr.jpg" crc="4119804745" ref="spacex"/>
+    <file name="waymo-7591-u98989-fr.jpg" crc="3783825902" ref="spacex"/>
+    <file name="u98972-4.png" crc="4000534475" ref="spacex"/>
+    <file name="u99013-4.png" crc="3881402886" ref="spacex"/>
+    <file name="u100456-4.png" crc="3833830006" ref="spacex"/>
+    <file name="u990262.png" crc="319165955" ref="spacex"/>
+    <file name="u99026-r2.png" crc="4290026233" ref="spacex"/>
+    <file name="u990302.png" crc="183587077" ref="spacex"/>
+    <file name="u99030-r2.png" crc="4126109571" ref="spacex"/>
+    <file name="u990322.png" crc="57702642" ref="spacex"/>
+    <file name="u99032-r2.png" crc="150988885" ref="spacex"/>
+    <file name="u990282.png" crc="52672247" ref="spacex"/>
+    <file name="u99028-r2.png" crc="62839029" ref="spacex"/>
+    <file name="u990263.png" crc="204397972" ref="spacex"/>
+    <file name="u99026-r3.png" crc="4223048" ref="spacex"/>
+    <file name="u990303.png" crc="79268255" ref="spacex"/>
+    <file name="u99030-r3.png" crc="4004807834" ref="spacex"/>
+    <file name="u990323.png" crc="3891223525" ref="spacex"/>
+    <file name="u99032-r3.png" crc="241648166" ref="spacex"/>
+    <file name="u990283.png" crc="153671838" ref="spacex"/>
+    <file name="u99028-r3.png" crc="77733415" ref="spacex"/>
+    <file name="u990264.png" crc="378752838" ref="spacex"/>
+    <file name="u99026-r4.png" crc="519132056" ref="spacex"/>
+    <file name="u990304.png" crc="164649379" ref="spacex"/>
+    <file name="u99030-r4.png" crc="4179256853" ref="spacex"/>
+    <file name="u990324.png" crc="3824317652" ref="spacex"/>
+    <file name="u99032-r4.png" crc="333310611" ref="spacex"/>
+    <file name="u990284.png" crc="4183401672" ref="spacex"/>
+    <file name="u99028-r4.png" crc="325206213" ref="spacex"/>
+    <file name="baby-u99014-fr.jpg" crc="4210365873" ref="spacex"/>
+    <file name="crispr-u99012-fr.jpg" crc="4001850251" ref="spacex"/>
+    <file name="u990265.png" crc="4157067765" ref="spacex"/>
+    <file name="u99026-r5.png" crc="77670106" ref="spacex"/>
+    <file name="u990305.png" crc="507762262" ref="spacex"/>
+    <file name="u99030-r5.png" crc="535121231" ref="spacex"/>
+    <file name="u990325.png" crc="41083977" ref="spacex"/>
+    <file name="u99032-r5.png" crc="171636822" ref="spacex"/>
+    <file name="u990285.png" crc="121235991" ref="spacex"/>
+    <file name="u99028-r5.png" crc="468604445" ref="spacex"/>
+    <file name="baby-u99014-fr2.jpg" crc="4222963697" ref="spacex"/>
+    <file name="crispr-u99012-fr2.jpg" crc="118978647" ref="spacex"/>
   </folder>
   <file name="index.html" crc="3861046239" seo="true" mt="1491707504215" redirect="true"/>
-  <file name="dev.html" crc="501272625" seo="true" mt="1491703276537" redirect="true"/>
+  <file name="dev.html" crc="3780006917" seo="true" mt="1491774510445" redirect="true"/>
   <file name="designer-babies.html" crc="20073232" seo="true" mt="1491700423004" redirect="true"/>
-  <file name="dev-copy.html" crc="535815802" seo="true" mt="1491707414844" redirect="true"/>
+  <file name="dev-copy.html" crc="3997218452" seo="true" mt="1491712866221" redirect="true"/>
+  <file name="spacex.html" crc="4130103641" seo="true" mt="1491716874512" redirect="true"/>
 </manifest>
