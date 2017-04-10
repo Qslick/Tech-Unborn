@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491797718001">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491797889799">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -7,11 +7,11 @@
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
     <file name="index.css" crc="3917008825" ref="index"/>
-    <file name="master_a-master.css" crc="3994542132" ref="dev:dev-copy"/>
-    <file name="nomq_preview_master_a-master.css" crc="4174458775" ref="dev:dev-copy"/>
+    <file name="master_a-master.css" crc="3805701284" ref="dev:dev-copy"/>
+    <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev:dev-copy"/>
     <file name="master_b-master.css" crc="350656081" ref="index"/>
-    <file name="dev.css" crc="186187758" ref="dev"/>
-    <file name="nomq_dev.css" crc="217563096" ref="dev"/>
+    <file name="dev.css" crc="184110390" ref="dev"/>
+    <file name="nomq_dev.css" crc="4268456705" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="359749712" ref="index"/>
     <file name="designer-babies.css" crc="3787600761" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="62018982" ref="designer-babies"/>
@@ -854,14 +854,14 @@
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies:dev-copy:spacex">
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -1013,7 +1013,7 @@
     <file name="crispr-u99012-fr2.jpg" crc="118978647" ref="spacex"/>
   </folder>
   <file name="index.html" crc="3963997854" seo="true" mt="1491797550907" redirect="true"/>
-  <file name="dev.html" crc="4150885384" seo="true" mt="1491797650619" redirect="true"/>
+  <file name="dev.html" crc="100796916" seo="true" mt="1491797854675" redirect="true"/>
   <file name="designer-babies.html" crc="20073232" seo="true" mt="1491700423004" redirect="true"/>
   <file name="dev-copy.html" crc="3997218452" seo="true" mt="1491712866221" redirect="true"/>
   <file name="spacex.html" crc="4130103641" seo="true" mt="1491716874512" redirect="true"/>
