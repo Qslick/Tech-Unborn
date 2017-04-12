@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491978359029">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1491978497292">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -10,8 +10,8 @@
     <file name="master_a-master.css" crc="4286610100" ref="dev"/>
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev"/>
     <file name="master_b-master.css" crc="350656081" ref="index"/>
-    <file name="dev.css" crc="4013492110" ref="dev"/>
-    <file name="nomq_dev.css" crc="179415895" ref="dev"/>
+    <file name="dev.css" crc="398025017" ref="dev"/>
+    <file name="nomq_dev.css" crc="4264362637" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="359749712" ref="index"/>
     <file name="designer-babies.css" crc="110865806" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="4158833239" ref="designer-babies"/>
@@ -850,14 +850,14 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
@@ -940,6 +940,6 @@
     <file name="spacex-81773-u1275-fr4.jpg" crc="4204453658" ref="dev"/>
   </folder>
   <file name="index.html" crc="3963997854" seo="true" mt="1491797550907" redirect="true"/>
-  <file name="dev.html" crc="515190279" seo="true" mt="1491978327336" redirect="true"/>
+  <file name="dev.html" crc="133750523" seo="true" mt="1491978458318" redirect="true"/>
   <file name="designer-babies.html" crc="4143804955" seo="true" mt="1491957993541" redirect="true"/>
 </manifest>
