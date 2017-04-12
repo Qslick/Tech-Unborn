@@ -31,32 +31,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://techunborn.com/dev-copy.html</loc>
-    <lastmod>2017-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://techunborn.com/images/plus.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://techunborn.com/images/download-symbol.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://techunborn.com/images/play-button-(6).svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://techunborn.com/spacex.html</loc>
-    <lastmod>2017-04-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://techunborn.com/images/crisper2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://techunborn.com/assets/pebble1_2040.0.0.jpg</loc>
-    <lastmod>2017-04-06</lastmod>
+    <loc>http://techunborn.com/assets/vpavic_081216_1321_0006.0.0.jpeg</loc>
+    <lastmod>2017-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,8 +43,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/vpavic_081216_1321_0006.0.0.jpeg</loc>
-    <lastmod>2017-04-08</lastmod>
+    <loc>http://techunborn.com/assets/pebble1_2040.0.0.jpg</loc>
+    <lastmod>2017-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
