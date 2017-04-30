@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493522075120">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493522282956">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -7,8 +7,8 @@
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
     <file name="index.css" crc="81036585" ref="index"/>
-    <file name="master_a-master.css" crc="3962944498" ref="dev:preview"/>
-    <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev:preview"/>
+    <file name="master_a-master.css" crc="3962944498" ref="dev"/>
+    <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev"/>
     <file name="master_b-master.css" crc="3958442332" ref="index"/>
     <file name="dev.css" crc="527517465" ref="dev"/>
     <file name="nomq_dev.css" crc="4259927602" ref="dev"/>
@@ -18,8 +18,7 @@
     <file name="nomq_index.css" crc="3910506613" ref="index"/>
     <file name="master_blog-post-independent.css" crc="4290767544" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
-    <file name="preview.css" crc="455449760" ref="preview"/>
-    <file name="nomq_preview.css" crc="531267671" ref="preview"/>
+    <file name="preview.css" crc="3798713581" ref="preview"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:dev:designer-babies:preview"/>
@@ -28,7 +27,7 @@
     <file name="museconfig.js" crc="3849126041" ref="index:dev:designer-babies:preview"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:dev:designer-babies"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:dev:designer-babies:preview"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="dev:designer-babies:index:preview"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="dev:designer-babies:index"/>
     <file name="require.js" crc="4234670167" ref="index:dev:designer-babies:preview"/>
     <file name="webpro.js" crc="3770351119" ref="dev"/>
     <file name="form_check.php" crc="3841221102" ref="dev"/>
@@ -38,7 +37,7 @@
     <file name="form-u126582.php" crc="4149550129" ref="dev"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="dev:designer-babies:index:preview"/>
+    <file name="blank.gif" crc="4208392903" ref="dev:designer-babies:index"/>
     <file name="u1327-4.png" crc="4205093912" ref="dev"/>
     <file name="plus.svg" crc="3847780192" seo="true" ref="dev">
       <caption webpage="index" alt=""/>
@@ -807,7 +806,7 @@
       <caption webpage="dev-copy" alt="Phone"/>
       <caption webpage="dev-copy" alt="Phone"/>
     </file>
-    <file name="u1439-4.png" crc="3833830006" ref="dev:preview"/>
+    <file name="u1439-4.png" crc="3833830006" ref="dev"/>
     <file name="u1327-42.png" crc="4205093912" ref="dev"/>
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="dev">
       <caption webpage="index" alt=""/>
@@ -981,5 +980,5 @@
   <file name="index.html" crc="4021172588" seo="true" mt="1492067155933" redirect="true"/>
   <file name="dev.html" crc="4100040963" seo="true" mt="1493522026802" redirect="true"/>
   <file name="designer-babies.html" crc="4203537741" seo="true" mt="1493332805593" redirect="true"/>
-  <file name="preview.html" crc="445802512" seo="true" mt="1493522002788" redirect="true"/>
+  <file name="preview.html" crc="110250663" seo="true" mt="1493522237552" redirect="true"/>
 </manifest>
