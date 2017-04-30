@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493522371463">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493522917365">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -980,5 +980,5 @@
   <file name="index.html" crc="4021172588" seo="true" mt="1492067155933" redirect="true"/>
   <file name="dev.html" crc="3941212308" seo="true" mt="1493522341729" redirect="true"/>
   <file name="designer-babies.html" crc="4203537741" seo="true" mt="1493332805593" redirect="true"/>
-  <file name="preview.html" crc="110250663" seo="true" mt="1493522237552" redirect="true"/>
+  <file name="preview.html" crc="198385914" seo="true" mt="1493522916691" redirect="true"/>
 </manifest>
