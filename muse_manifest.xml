@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493524512287">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493542933345">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
     <file name="vpavic_081216_1321_0006.0.0.jpeg" crc="238312555" seo="true" mt="1491640768000"/>
-    <file name="designer-babies.mp3" crc="508416186" seo="true" mt="1493517172000"/>
+    <file name="designer-babies.mp3" crc="502975988" seo="true" mt="1493541896000"/>
     <file name="designer-babies.zip" crc="104726089" seo="true" mt="1493524160000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4032741081"/>
+    <file name="site_global.css" crc="3870883528"/>
     <file name="index.css" crc="81036585" ref="index"/>
     <file name="master_a-master.css" crc="3962944498" ref="dev"/>
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev"/>
@@ -982,5 +982,5 @@
   <file name="index.html" crc="4021172588" seo="true" mt="1492067155933" redirect="true"/>
   <file name="dev.html" crc="3941212308" seo="true" mt="1493522341729" redirect="true"/>
   <file name="designer-babies.html" crc="4203537741" seo="true" mt="1493332805593" redirect="true"/>
-  <file name="preview.html" crc="378301226" seo="true" mt="1493524467587" redirect="true"/>
+  <file name="preview.html" crc="68386467" seo="true" mt="1493542915375" redirect="true"/>
 </manifest>
