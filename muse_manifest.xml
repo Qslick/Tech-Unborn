@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493522282956">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493522371463">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -810,8 +810,8 @@
     <file name="u1327-42.png" crc="4205093912" ref="dev"/>
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="dev">
       <caption webpage="index" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="designer-babies" alt=""/>
     </file>
     <file name="u1327-43.png" crc="50644391" ref="dev"/>
@@ -843,11 +843,6 @@
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies">
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
@@ -856,6 +851,11 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
@@ -978,7 +978,7 @@
     <file name="drone1-u148037-fr.jpg" crc="4244743381" ref="designer-babies"/>
   </folder>
   <file name="index.html" crc="4021172588" seo="true" mt="1492067155933" redirect="true"/>
-  <file name="dev.html" crc="4100040963" seo="true" mt="1493522026802" redirect="true"/>
+  <file name="dev.html" crc="3941212308" seo="true" mt="1493522341729" redirect="true"/>
   <file name="designer-babies.html" crc="4203537741" seo="true" mt="1493332805593" redirect="true"/>
   <file name="preview.html" crc="110250663" seo="true" mt="1493522237552" redirect="true"/>
 </manifest>
