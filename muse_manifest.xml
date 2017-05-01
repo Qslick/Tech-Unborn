@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493658885644">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493659821076">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -8,16 +8,16 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
-    <file name="index.css" crc="24372538" ref="index"/>
-    <file name="master_a-master.css" crc="3962944498" ref="dev"/>
-    <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="dev"/>
+    <file name="index.css" crc="3828163403" ref="index"/>
+    <file name="master_a-master.css" crc="3994542132" ref="dev"/>
+    <file name="nomq_preview_master_a-master.css" crc="4174458775" ref="dev"/>
     <file name="master_b-master.css" crc="4191654126" ref="index"/>
-    <file name="dev.css" crc="527517465" ref="dev"/>
-    <file name="nomq_dev.css" crc="4259927602" ref="dev"/>
+    <file name="dev.css" crc="4227093908" ref="dev"/>
+    <file name="nomq_dev.css" crc="456197298" ref="dev"/>
     <file name="nomq_preview_master_b-master.css" crc="359749712" ref="index"/>
     <file name="designer-babies.css" crc="4168764087" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="346617580" ref="designer-babies"/>
-    <file name="nomq_index.css" crc="388350997" ref="index"/>
+    <file name="nomq_index.css" crc="423397601" ref="index"/>
     <file name="master_blog-post-independent.css" crc="4290767544" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
     <file name="preview.css" crc="3967686209" ref="preview"/>
@@ -845,19 +845,19 @@
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies">
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
@@ -929,10 +929,10 @@
     <file name="u1327-47.png" crc="4160844091" ref="dev"/>
     <file name="u1327-48.png" crc="453959604" ref="dev"/>
     <file name="spacex-81773.jpg" crc="107094223" ref="dev">
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
     </file>
     <file name="spacex-81773-u1275-fr.jpg" crc="383174503" ref="dev"/>
     <file name="spacex-81773-u1275-fr2.jpg" crc="4082238056" ref="dev"/>
@@ -979,8 +979,8 @@
     </file>
     <file name="drone1-u148037-fr.jpg" crc="4244743381" ref="designer-babies"/>
   </folder>
-  <file name="index.html" crc="4136089877" seo="true" mt="1493658858921" redirect="true"/>
-  <file name="dev.html" crc="3941212308" seo="true" mt="1493522341729" redirect="true"/>
+  <file name="index.html" crc="236171361" seo="true" mt="1493659548627" redirect="true"/>
+  <file name="dev.html" crc="4178261317" seo="true" mt="1493659769974" redirect="true"/>
   <file name="designer-babies.html" crc="4203537741" seo="true" mt="1493332805593" redirect="true"/>
   <file name="preview.html" crc="68386467" seo="true" mt="1493542915375" redirect="true"/>
 </manifest>

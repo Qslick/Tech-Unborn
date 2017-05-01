@@ -12,22 +12,22 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/home-favicon.ico?crc=157611239"/>
   <title>TechUnborn</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4032741081"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=3958442332"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=81036585" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4191654126"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3828163403" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=4141920004"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3910506613" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=359749712"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=423397601" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/zeomFSvJ7X6B3EengHrJrv7CV6CgIvdck3xHvxnaLzMfeGGgfJE7HUJ1FDMo5QMkWD9aFRwkweByjD4cjDwhjRsyFAF8FDi8ZejUjQBRjc4ceRJ7O1s8jhyudc4zSct0jhNlOYs8jhyudc4zSct0jhNlOYiaikoXZAFGiAoKda40OcFzdPJ5Z1mXiW4yOWgXOA4zdeb7f6R76MJbMg6YJM4HgIuuShAbMjLOzwSB.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/9Q7q-ASruE-qzD8p4g5wyQPH8nyucmbkYvWzMsEMCpXfeGGgfJE7HUJ1FDMo5QMkWD9aFRwkweByjD4cjDwhjRsyFAF8FDi8ZejUjQBRjc4ceRJ7O1s8jhyudc4zSct0jhNlOYs8jhyudc4zSct0jhNlOYiaikoXZAFGiAoKda40OcFzdPJ5Z1mXiW4yOWgXOA4zdeb7f6R76MJbMg6YJM4HgIuuShAbM-xy1S6B.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -42,22 +42,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   ga('create', 'UA-96918670-1', 'auto');
   ga('send', 'pageview');
 
-function check(form) { /*function to check userid & password*/
-           /*the following code checkes whether the entered userid and password are matching*/
-           if (form.userid.value == "Password") {
-                document.location="/dev.html"; 
-           } else {
-               alert("incorrect passcode")
-           }
-       }
-function check(form) { /*function to check userid & password*/
-           /*the following code checkes whether the entered userid and password are matching*/
-           if (form.userid.value == "Password") {
-                document.location="/dev.html"; 
-           } else {
-               alert("incorrect passcode")
-           }
-       }
 </script>
  </head>
  <body>
@@ -66,12 +50,6 @@ function check(form) { /*function to check userid & password*/
    <div class="clearfix borderbox" id="page"><!-- group -->
     <div class="clearfix grpelem" id="pu14258-4"><!-- column -->
      <img class="colelem temp_no_img_src shared_content" id="u14258-4" alt="TECH UNBORN" width="284" height="116" data-orig-src="images/u14258-4.png?crc=296457210" data-IBE-flags="txtStyleSrc" src="images/blank.gif?crc=4208392903" data-content-guid="u14258-4_content"/><!-- rasterized frame -->
-    
-     <form name="login">
-               <input type="text" id="inputbox" name="userid" value=" " onfocus="if(this.value == ' ') { this.value = ''; }" onblur="if(this.value == '') { this.value = ' '; }" />
-               <button type="button" class="enter_link" id="button" onclick="check(this.form)" value="enter anyway" />enter anyway</button>
-           </form>
-     
      <div class="browser_width colelem" id="u14246-bw">
       <div class="gradient" id="u14246"><!-- simple frame --></div>
      </div>
@@ -86,8 +64,16 @@ function check(form) { /*function to check userid & password*/
       </div>
      </div>
     </div>
-    <div class="museBGSize grpelem shared_content" id="u14247" data-content-guid="u14247_content"><!-- simple frame --></div>
-    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="937" data-content-below-spacer="937"></div>
+    <div class="clearfix grpelem" id="pu14247"><!-- group -->
+     <div class="museBGSize grpelem shared_content" id="u14247" data-content-guid="u14247_content"><!-- simple frame --></div>
+     <div class="grpelem shared_content" id="u156037" data-content-guid="u156037_content"><!-- custom html -->
+      <form name="login">
+               <input type="text" id="inputbox" name="userid" value=" " onfocus="if(this.value == ' ') { this.value = ''; }" onblur="if(this.value == '') { this.value = ' '; }" />
+               <button type="button" class="enter_link" id="button" onclick="check(this.form)" value="enter anyway" />enter anyway</button>
+           </form>
+     </div>
+    </div>
+    <div class="verticalspacer" data-offset-top="271" data-content-above-spacer="937" data-content-below-spacer="666"></div>
    </div>
   </div>
   <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
@@ -97,6 +83,7 @@ function check(form) { /*function to check userid & password*/
      <div class="gradient temp_no_id" data-orig-id="u14246"><!-- group -->
       <div class="clearfix" id="u14246_align_to_page">
        <span class="museBGSize grpelem placeholder" data-placeholder-for="u14247_content"><!-- placeholder node --></span>
+       <span class="grpelem placeholder" data-placeholder-for="u156037_content"><!-- placeholder node --></span>
       </div>
      </div>
     </div>
@@ -109,7 +96,7 @@ function check(form) { /*function to check userid & password*/
       </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="596" data-content-below-spacer="122"></div>
+    <div class="verticalspacer" data-offset-top="281" data-content-above-spacer="596" data-content-below-spacer="122"></div>
    </div>
   </div>
   <!-- Other scripts -->
