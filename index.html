@@ -42,6 +42,22 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   ga('create', 'UA-96918670-1', 'auto');
   ga('send', 'pageview');
 
+function check(form) { /*function to check userid & password*/
+           /*the following code checkes whether the entered userid and password are matching*/
+           if (form.userid.value == "Password") {
+                document.location="/dev.html"; 
+           } else {
+               alert("incorrect passcode")
+           }
+       }
+function check(form) { /*function to check userid & password*/
+           /*the following code checkes whether the entered userid and password are matching*/
+           if (form.userid.value == "Password") {
+                document.location="/dev.html"; 
+           } else {
+               alert("incorrect passcode")
+           }
+       }
 </script>
  </head>
  <body>
