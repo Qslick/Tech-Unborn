@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493745443341">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493745798136">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -1293,7 +1293,7 @@
     <file name="john-cobb-13961-u159385-fr3.jpg" crc="457326560" ref="index"/>
     <file name="u159382-47.png" crc="398503732" ref="index"/>
   </folder>
-  <file name="index.html" crc="4251612923" seo="true" mt="1493745415551" redirect="true"/>
+  <file name="index.html" crc="129112944" seo="true" mt="1493745780837" redirect="true"/>
   <file name="designer-babies.html" crc="251977959" seo="true" mt="1493745186222" redirect="true"/>
   <file name="preview.html" crc="480053877" seo="true" mt="1493738026387" redirect="true"/>
   <file name="qa1.html" crc="429715528" seo="true" mt="1493742779792" redirect="true"/>
