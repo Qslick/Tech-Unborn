@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493711781465">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493723692490">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -7,15 +7,15 @@
     <file name="designer-babies.zip" crc="104726089" seo="true" mt="1493524160000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4032741081"/>
-    <file name="index.css" crc="186351730" ref="index"/>
+    <file name="site_global.css" crc="3870883528"/>
+    <file name="index.css" crc="491186176" ref="index"/>
     <file name="master_a-master.css" crc="3994542132" ref="qa1"/>
     <file name="nomq_preview_master_a-master.css" crc="4174458775" ref="qa1"/>
-    <file name="master_b-master.css" crc="440826240" ref="index"/>
+    <file name="master_b-master.css" crc="4191654126" ref="index"/>
     <file name="nomq_preview_master_b-master.css" crc="359749712" ref="index"/>
     <file name="designer-babies.css" crc="3885324784" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="3962611241" ref="designer-babies"/>
-    <file name="nomq_index.css" crc="3804744100" ref="index"/>
+    <file name="nomq_index.css" crc="3821522771" ref="index"/>
     <file name="master_blog-post-independent.css" crc="3841884710" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
     <file name="preview.css" crc="3967686209" ref="preview"/>
@@ -1270,7 +1270,7 @@
     <file name="drone1-u148037-fr.jpg" crc="4244743381" ref="designer-babies"/>
     <file name="experimental-favicon.ico" crc="157611239" ref="qa1"/>
   </folder>
-  <file name="index.html" crc="375669658" seo="true" mt="1493711766662" redirect="true"/>
+  <file name="index.html" crc="3987614772" seo="true" mt="1493723678878" redirect="true"/>
   <file name="designer-babies.html" crc="3758330418" seo="true" mt="1493710143587" redirect="true"/>
   <file name="preview.html" crc="68386467" seo="true" mt="1493542915375" redirect="true"/>
   <file name="qa1.html" crc="4128853113" seo="true" mt="1493710143590" redirect="true"/>
