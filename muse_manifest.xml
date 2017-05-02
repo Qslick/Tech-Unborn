@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493708966247">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1493709113889">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -812,9 +812,9 @@
     <file name="u1327-42.png" crc="4205093912" ref="dev"/>
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="dev">
       <caption webpage="index" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="designer-babies" alt=""/>
-      <caption webpage="dev" alt=""/>
     </file>
     <file name="u1327-43.png" crc="50644391" ref="dev"/>
     <file name="u1327-44.png" crc="4248695072" ref="dev"/>
@@ -845,6 +845,9 @@
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="dev:designer-babies">
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -858,9 +861,6 @@
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
     </file>
     <file name="baby-u2813-fr.jpg" crc="421265172" ref="dev"/>
     <file name="u32799-4.png" crc="34134976" ref="designer-babies"/>
@@ -980,7 +980,7 @@
     <file name="drone1-u148037-fr.jpg" crc="4244743381" ref="designer-babies"/>
   </folder>
   <file name="index.html" crc="236171361" seo="true" mt="1493659548627" redirect="true"/>
-  <file name="dev.html" crc="96195291" seo="true" mt="1493708895041" redirect="true"/>
+  <file name="dev.html" crc="3903699757" seo="true" mt="1493709063633" redirect="true"/>
   <file name="designer-babies.html" crc="4203537741" seo="true" mt="1493332805593" redirect="true"/>
   <file name="preview.html" crc="68386467" seo="true" mt="1493542915375" redirect="true"/>
 </manifest>
