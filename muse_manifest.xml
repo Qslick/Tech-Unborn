@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494112936218">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494113278562">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -13,11 +13,11 @@
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="qa1"/>
     <file name="master_b-master.css" crc="216075232" ref="home2"/>
     <file name="nomq_preview_master_b-master.css" crc="179969680" ref="home2"/>
-    <file name="designer-babies.css" crc="137603990" ref="designer-babies"/>
-    <file name="nomq_designer-babies.css" crc="499982775" ref="designer-babies"/>
+    <file name="designer-babies.css" crc="451388973" ref="designer-babies"/>
+    <file name="nomq_designer-babies.css" crc="3992484000" ref="designer-babies"/>
     <file name="nomq_index.css" crc="68142145" ref="index"/>
-    <file name="master_blog-post-independent.css" crc="239927573" ref="designer-babies"/>
-    <file name="nomq_preview_master_blog-post-independent.css" crc="240818508" ref="designer-babies"/>
+    <file name="master_blog-post-independent.css" crc="234965036" ref="designer-babies"/>
+    <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
     <file name="preview.css" crc="3881633613" ref="preview"/>
     <file name="qa1.css" crc="4225574276" ref="qa1"/>
     <file name="nomq_qa1.css" crc="3842785201" ref="qa1"/>
@@ -335,16 +335,16 @@
     <file name="elon-musk-portrait-e1399572239766.jpg" crc="43221204" ref="designer-babies">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
     </file>
     <file name="mars-house.jpg" crc="40647797" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -1125,19 +1125,19 @@
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
     </file>
     <file name="baby-u2813-fr.jpg" crc="421265172" ref="qa1"/>
     <file name="u32799-4.png" crc="34134976" ref="designer-babies"/>
@@ -1294,7 +1294,7 @@
     <file name="u159382-47.png" crc="398503732" ref="index"/>
   </folder>
   <file name="index.html" crc="129112944" seo="true" mt="1493745780837" redirect="true"/>
-  <file name="designer-babies.html" crc="251977959" seo="true" mt="1493745186222" redirect="true"/>
+  <file name="designer-babies.html" crc="4273304329" seo="true" mt="1494113275911" redirect="true"/>
   <file name="preview.html" crc="480053877" seo="true" mt="1493738026387" redirect="true"/>
   <file name="qa1.html" crc="3868577637" seo="true" mt="1494112835842" redirect="true"/>
   <file name="home2.html" crc="504616372" seo="true" mt="1493742779796" redirect="true"/>
