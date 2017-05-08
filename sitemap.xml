@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://techunborn.com/home2.html</loc>
+    <lastmod>2017-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://techunborn.com/qa1.html</loc>
     <lastmod>2017-05-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,20 +28,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://techunborn.com/preview.html</loc>
-    <lastmod>2017-05-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techunborn.com/home2.html</loc>
-    <lastmod>2017-05-02</lastmod>
+    <loc>http://techunborn.com/podcast.html</loc>
+    <lastmod>2017-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techunborn.com/designer-babies.html</loc>
-    <lastmod>2017-05-06</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>http://techunborn.com/assets/designer-babies.mp3</loc>
-    <lastmod>2017-04-30</lastmod>
+    <lastmod>2017-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
