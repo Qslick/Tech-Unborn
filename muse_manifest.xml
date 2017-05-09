@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494361593543">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494365705314">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -9,15 +9,15 @@
   <folder name="css">
     <file name="site_global.css" crc="3870883528"/>
     <file name="index.css" crc="4223527561" ref="index"/>
-    <file name="master_a-master.css" crc="39340210" ref="qa1"/>
+    <file name="master_a-master.css" crc="4106859685" ref="qa1"/>
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="qa1"/>
     <file name="designer-babies.css" crc="3779659687" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="529202740" ref="designer-babies"/>
     <file name="nomq_index.css" crc="3966176542" ref="index"/>
     <file name="master_blog-post-independent.css" crc="3818849583" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
-    <file name="qa1.css" crc="4261438311" ref="qa1"/>
-    <file name="nomq_qa1.css" crc="4129963605" ref="qa1"/>
+    <file name="qa1.css" crc="114840902" ref="qa1"/>
+    <file name="nomq_qa1.css" crc="299443287" ref="qa1"/>
     <file name="master_c.css" crc="352365140" ref="index"/>
     <file name="nomq_preview_master_c.css" crc="3812541963" ref="index"/>
     <file name="podcast.css" crc="4186250431" ref="podcast"/>
@@ -40,9 +40,9 @@
     <file name="form-u126582.php" crc="4149550129" ref="qa1"/>
     <file name="form-u159791.php" crc="217879083" ref="index"/>
     <file name="musewpdisclosure.js" crc="347705465" ref="podcast:untitled-6"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index:qa1"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index:qa1"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index:qa1"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="designer-babies:index:qa1"/>
@@ -85,6 +85,10 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -141,6 +145,10 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="download-symbol_poster_.png" crc="232288092" ref="qa1"/>
     <file name="play-button-(6).svg" crc="3961079179" seo="true" ref="qa1">
@@ -181,6 +189,10 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -278,6 +290,7 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="space b2.jpg" crc="4248253917" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -309,6 +322,7 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not-u3843-fr.jpg" crc="4257510453" ref="qa1"/>
     <file name="6641165420.jpg" crc="3902929398" ref="qa1">
@@ -318,6 +332,7 @@
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
     </file>
@@ -352,6 +367,7 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="19767_rocket_launch_space_shuttle_liftoff.jpg" crc="4006510027" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -375,6 +391,7 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -414,6 +431,7 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not.jpg" crc="3890927192" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -437,6 +455,7 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -469,6 +488,7 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -584,6 +604,11 @@
       <caption webpage="dev" alt="Name"/>
       <caption webpage="dev" alt="Name"/>
       <caption webpage="dev" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
       <caption webpage="qa1" alt="Name"/>
       <caption webpage="qa1" alt="Name"/>
       <caption webpage="qa1" alt="Name"/>
@@ -771,6 +796,11 @@
       <caption webpage="qa1" alt="Email"/>
       <caption webpage="qa1" alt="Email"/>
       <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
     </file>
     <file name="web.jpg" crc="3801575601" ref="qa1">
       <caption webpage="index" alt="Website"/>
@@ -878,6 +908,11 @@
       <caption webpage="dev" alt="Website"/>
       <caption webpage="dev" alt="Website"/>
       <caption webpage="dev" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
       <caption webpage="qa1" alt="Website"/>
       <caption webpage="qa1" alt="Website"/>
       <caption webpage="qa1" alt="Website"/>
@@ -1065,19 +1100,24 @@
       <caption webpage="qa1" alt="Phone"/>
       <caption webpage="qa1" alt="Phone"/>
       <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
     </file>
     <file name="u1439-4.png" crc="3833830006" ref="qa1"/>
     <file name="u1327-42.png" crc="269037211" ref="qa1"/>
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="qa1">
       <caption webpage="index" alt=""/>
       <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
     </file>
-    <file name="u1327-43.png" crc="442823876" ref="qa1"/>
-    <file name="u1327-44.png" crc="439639431" ref="qa1"/>
-    <file name="u1327-45.png" crc="242447536" ref="qa1"/>
+    <file name="u1327-43.png" crc="269037211" ref="qa1"/>
+    <file name="u1327-44.png" crc="442823876" ref="qa1"/>
+    <file name="u1327-45.png" crc="439639431" ref="qa1"/>
     <file name="elon-musk-portrait-e1399572239766-u4200-fr.jpg" crc="3999235018" ref="qa1"/>
     <file name="u16554.png" crc="474133425" ref="designer-babies"/>
     <file name="u16554-r.png" crc="253430852" ref="designer-babies"/>
@@ -1098,14 +1138,14 @@
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="designer-babies:qa1">
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
@@ -1114,6 +1154,7 @@
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -1183,16 +1224,17 @@
     <file name="u16536-r5.png" crc="468604445" ref="designer-babies"/>
     <file name="baby-u16725-fr2.jpg" crc="4222963697" ref="designer-babies"/>
     <file name="crispr-u28370-fr2.jpg" crc="118978647" ref="designer-babies"/>
-    <file name="u1327-46.png" crc="4135422075" ref="qa1"/>
-    <file name="u1327-47.png" crc="190504780" ref="qa1"/>
-    <file name="u1327-48.png" crc="4084484832" ref="qa1"/>
+    <file name="u1327-46.png" crc="242447536" ref="qa1"/>
+    <file name="u1327-47.png" crc="4135422075" ref="qa1"/>
+    <file name="u1327-48.png" crc="190504780" ref="qa1"/>
     <file name="spacex-81773.jpg" crc="107094223" ref="qa1">
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="spacex-81773-u1275-fr.jpg" crc="383174503" ref="qa1"/>
     <file name="spacex-81773-u1275-fr2.jpg" crc="4082238056" ref="qa1"/>
@@ -1207,6 +1249,7 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -1233,14 +1276,17 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="blog-post-independent-favicon.ico" crc="157611239" ref="designer-babies"/>
     <file name="robo1.jpg" crc="450775979" ref="qa1">
       <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="drone1.jpg" crc="235857291" ref="qa1">
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
     </file>
     <file name="spacex-81773-u1275-fr5.jpg" crc="57859624" ref="qa1"/>
@@ -1275,6 +1321,7 @@
     <file name="planet logo.jpg" crc="4015091440" ref="qa1">
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="planet logo-u211545-fr.jpg" crc="94772246" ref="qa1"/>
     <file name="planet logo-u211545-fr2.jpg" crc="4073070351" ref="qa1"/>
@@ -1282,19 +1329,12 @@
     <file name="planet logo-u211545-fr4.jpg" crc="4112531497" ref="qa1"/>
     <file name="planet logo-u211545-fr5.jpg" crc="4060115552" ref="qa1"/>
     <file name="planet logo-u211545-fr6.jpg" crc="3821430975" ref="qa1"/>
-    <file name="menu-alt-512-u213910.png" crc="63693608" ref="qa1"/>
-    <file name="menu-alt-512-u2139102.png" crc="63693608" ref="qa1"/>
-    <file name="menu-alt-512-u2139103.png" crc="63693608" ref="qa1"/>
-    <file name="menu-alt-512-u2139104.png" crc="63693608" ref="qa1"/>
-    <file name="menu-alt-512-u2139105.png" crc="63693608" ref="qa1"/>
-    <file name="menu-alt-512-u2139106.png" crc="63693608" ref="qa1"/>
-    <file name="menu-alt-512-u2139107.png" crc="63693608" ref="qa1"/>
-    <file name="menu-alt-512-u2139108.png" crc="63693608" ref="qa1"/>
     <file name="spacex-81773-u1275-fr6.jpg" crc="4237437815" ref="qa1"/>
+    <file name="u1327-49.png" crc="4084484832" ref="qa1"/>
   </folder>
   <file name="index.html" crc="119674961" seo="true" mt="1494305677003" redirect="true"/>
   <file name="designer-babies.html" crc="481210667" seo="true" mt="1493745186222" redirect="true"/>
-  <file name="qa1.html" crc="325949746" seo="true" mt="1494361537924" redirect="true"/>
+  <file name="qa1.html" crc="4270058517" seo="true" mt="1494365675616" redirect="true"/>
   <file name="podcast.html" crc="4172869346" seo="true" mt="1494293600666" redirect="true"/>
   <file name="untitled-6.html" crc="4116945544" seo="true" mt="1494307445061" redirect="true"/>
 </manifest>
