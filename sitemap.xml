@@ -13,21 +13,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techunborn.com/qa1.html</loc>
-    <lastmod>2017-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://techunborn.com/images/plus.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://techunborn.com/images/download-symbol.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://techunborn.com/images/play-button-(6).svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://techunborn.com/untitled-6.html</loc>
     <lastmod>2017-05-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,8 +28,38 @@
     </image:image>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/vpavic_081216_1321_0006.0.0.jpeg</loc>
-    <lastmod>2017-04-08</lastmod>
+    <loc>http://techunborn.com/qa1.html</loc>
+    <lastmod>2017-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://techunborn.com/images/plus.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/download-symbol.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/play-button-(6).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/mobile-1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/designer-babies.zip</loc>
+    <lastmod>2017-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/play.png</loc>
+    <lastmod>2017-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/pdcastimg.png</loc>
+    <lastmod>2017-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -55,8 +70,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/designer-babies.zip</loc>
-    <lastmod>2017-04-29</lastmod>
+    <loc>http://techunborn.com/assets/audio-2.png</loc>
+    <lastmod>2017-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/audio-1.png</loc>
+    <lastmod>2017-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/audio-x.png</loc>
+    <lastmod>2017-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,8 +94,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://techunborn.com/assets/vpavic_081216_1321_0006.0.0.jpeg</loc>
+    <lastmod>2017-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/pause.png</loc>
+    <lastmod>2017-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://techunborn.com/assets/pebble1_2040.0.0.jpg</loc>
     <lastmod>2017-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://techunborn.com/assets/audio-3.png</loc>
+    <lastmod>2017-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
