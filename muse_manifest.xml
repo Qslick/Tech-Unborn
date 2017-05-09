@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494275835056">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494291795456">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -9,32 +9,29 @@
   <folder name="css">
     <file name="site_global.css" crc="3870883528"/>
     <file name="index.css" crc="4170647189" ref="index"/>
-    <file name="master_a-master.css" crc="25839762" ref="qa1"/>
+    <file name="master_a-master.css" crc="4167680815" ref="qa1"/>
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="qa1"/>
-    <file name="master_b-master.css" crc="216075232" ref="home2"/>
-    <file name="nomq_preview_master_b-master.css" crc="179969680" ref="home2"/>
     <file name="designer-babies.css" crc="3779659687" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="529202740" ref="designer-babies"/>
     <file name="nomq_index.css" crc="113581624" ref="index"/>
     <file name="master_blog-post-independent.css" crc="3818849583" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
-    <file name="qa1.css" crc="4225574276" ref="qa1"/>
-    <file name="nomq_qa1.css" crc="3842785201" ref="qa1"/>
-    <file name="home2.css" crc="4243591228" ref="home2"/>
-    <file name="nomq_home2.css" crc="3769902928" ref="home2"/>
+    <file name="qa1.css" crc="4264870624" ref="qa1"/>
+    <file name="nomq_qa1.css" crc="202782482" ref="qa1"/>
     <file name="master_c.css" crc="8485576" ref="index"/>
     <file name="nomq_preview_master_c.css" crc="3812541963" ref="index"/>
-    <file name="podcast.css" crc="124210684" ref="podcast"/>
+    <file name="podcast.css" crc="414238754" ref="podcast"/>
+    <file name="untitled-6.css" crc="193171298" ref="untitled-6"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designer-babies:qa1:home2:podcast"/>
-    <file name="museutils.js" crc="4232573551" ref="index:designer-babies:qa1:home2:podcast"/>
-    <file name="whatinput.js" crc="86476730" ref="index:designer-babies:qa1:home2:podcast"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:designer-babies:qa1:home2:podcast"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:designer-babies:qa1:home2"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:designer-babies:qa1:home2:podcast"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="designer-babies:index:qa1:home2"/>
-    <file name="require.js" crc="4234670167" ref="index:designer-babies:qa1:home2:podcast"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designer-babies:qa1:podcast:untitled-6"/>
+    <file name="museutils.js" crc="4232573551" ref="index:designer-babies:qa1:podcast:untitled-6"/>
+    <file name="whatinput.js" crc="86476730" ref="index:designer-babies:qa1:podcast:untitled-6"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:designer-babies:qa1:podcast:untitled-6"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:designer-babies:qa1"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:designer-babies:qa1:podcast:untitled-6"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="designer-babies:index:qa1"/>
+    <file name="require.js" crc="4234670167" ref="index:designer-babies:qa1:podcast:untitled-6"/>
     <file name="webpro.js" crc="3770351119" ref="qa1:index"/>
     <file name="form_check.php" crc="3841221102" ref="qa1:index"/>
     <file name="form_throttle.php" crc="4048049783" ref="qa1:index"/>
@@ -44,7 +41,7 @@
     <file name="form-u159791.php" crc="217879083" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="designer-babies:index:qa1:home2:podcast"/>
+    <file name="blank.gif" crc="4208392903" ref="designer-babies:index:qa1"/>
     <file name="u1327-4.png" crc="4205093912" ref="qa1"/>
     <file name="plus.svg" crc="3847780192" seo="true" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -60,18 +57,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -96,6 +81,18 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="plus_poster_.png" crc="74978445" ref="qa1"/>
     <file name="download-symbol.svg" crc="330995982" seo="true" ref="qa1">
@@ -112,18 +109,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -148,6 +133,18 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="download-symbol_poster_.png" crc="232288092" ref="qa1"/>
     <file name="play-button-(6).svg" crc="3961079179" seo="true" ref="qa1">
@@ -164,18 +161,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -200,6 +185,18 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="play-button (6)_poster_.png" crc="126068632" ref="qa1"/>
     <file name="ba.jpg" crc="329688762" ref="qa1">
@@ -208,13 +205,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -230,19 +220,19 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="waymo-7591.jpg" crc="4111943414" ref="qa1">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -256,6 +246,13 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="2018_buick_regal_tourx_010.jpg" crc="3905079666" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -264,14 +261,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -289,6 +278,14 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="space b2.jpg" crc="4248253917" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -296,14 +293,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -320,17 +309,25 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not-u3843-fr.jpg" crc="4257510453" ref="qa1"/>
     <file name="6641165420.jpg" crc="3902929398" ref="qa1">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="elon-musk-portrait-e1399572239766.jpg" crc="43221204" ref="designer-babies">
       <caption webpage="index" alt=""/>
@@ -351,10 +348,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -363,6 +356,10 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="19767_rocket_launch_space_shuttle_liftoff.jpg" crc="4006510027" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -370,14 +367,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -394,6 +383,14 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="18574_rocket_launch_space_shuttle_launch.jpg" crc="4269344129" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -401,14 +398,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -425,6 +414,14 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="yahoos-marissa-mayer-is-a-symbol-for-american-working-mothers-whether-she-likes-it-or-not.jpg" crc="3890927192" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -432,14 +429,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -456,6 +445,14 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="waymo-7591-u5275-fr.jpg" crc="174422448" ref="qa1"/>
     <file name="james breedlove.jpg" crc="379684687" ref="qa1">
@@ -464,14 +461,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
@@ -488,6 +477,14 @@
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="name.jpg" crc="68464640" ref="qa1">
       <caption webpage="index" alt="Name"/>
@@ -515,46 +512,6 @@
       <caption webpage="index" alt="Name"/>
       <caption webpage="index" alt="Name"/>
       <caption webpage="index" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
-      <caption webpage="qa1" alt="Name"/>
       <caption webpage="dev-copy" alt="Name"/>
       <caption webpage="dev-copy" alt="Name"/>
       <caption webpage="dev-copy" alt="Name"/>
@@ -635,6 +592,46 @@
       <caption webpage="dev" alt="Name"/>
       <caption webpage="dev" alt="Name"/>
       <caption webpage="dev" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
+      <caption webpage="qa1" alt="Name"/>
     </file>
     <file name="nail.jpg" crc="4181910775" ref="qa1">
       <caption webpage="index" alt="Email"/>
@@ -662,46 +659,6 @@
       <caption webpage="index" alt="Email"/>
       <caption webpage="index" alt="Email"/>
       <caption webpage="index" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
-      <caption webpage="qa1" alt="Email"/>
       <caption webpage="dev-copy" alt="Email"/>
       <caption webpage="dev-copy" alt="Email"/>
       <caption webpage="dev-copy" alt="Email"/>
@@ -782,6 +739,46 @@
       <caption webpage="dev" alt="Email"/>
       <caption webpage="dev" alt="Email"/>
       <caption webpage="dev" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
+      <caption webpage="qa1" alt="Email"/>
     </file>
     <file name="web.jpg" crc="3801575601" ref="qa1">
       <caption webpage="index" alt="Website"/>
@@ -809,46 +806,6 @@
       <caption webpage="index" alt="Website"/>
       <caption webpage="index" alt="Website"/>
       <caption webpage="index" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
-      <caption webpage="qa1" alt="Website"/>
       <caption webpage="dev-copy" alt="Website"/>
       <caption webpage="dev-copy" alt="Website"/>
       <caption webpage="dev-copy" alt="Website"/>
@@ -929,6 +886,46 @@
       <caption webpage="dev" alt="Website"/>
       <caption webpage="dev" alt="Website"/>
       <caption webpage="dev" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
+      <caption webpage="qa1" alt="Website"/>
     </file>
     <file name="phone.jpg" crc="276128751" ref="qa1">
       <caption webpage="index" alt="Phone"/>
@@ -956,46 +953,6 @@
       <caption webpage="index" alt="Phone"/>
       <caption webpage="index" alt="Phone"/>
       <caption webpage="index" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
-      <caption webpage="qa1" alt="Phone"/>
       <caption webpage="dev-copy" alt="Phone"/>
       <caption webpage="dev-copy" alt="Phone"/>
       <caption webpage="dev-copy" alt="Phone"/>
@@ -1076,27 +1033,59 @@
       <caption webpage="dev" alt="Phone"/>
       <caption webpage="dev" alt="Phone"/>
       <caption webpage="dev" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
+      <caption webpage="qa1" alt="Phone"/>
     </file>
     <file name="u1439-4.png" crc="3833830006" ref="qa1"/>
     <file name="u1327-42.png" crc="4205093912" ref="qa1"/>
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="qa1">
       <caption webpage="index" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="u1327-43.png" crc="50644391" ref="qa1"/>
     <file name="u1327-44.png" crc="4248695072" ref="qa1"/>
     <file name="u1327-45.png" crc="4828782" ref="qa1"/>
-    <file name="u14258-4.png" crc="296457210" ref="home2"/>
-    <file name="nrcl6pi84.png" crc="398570338" ref="home2">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home2" alt=""/>
-      <caption webpage="home2" alt=""/>
-    </file>
     <file name="elon-musk-portrait-e1399572239766-u4200-fr.jpg" crc="3999235018" ref="qa1"/>
     <file name="u16554.png" crc="474133425" ref="designer-babies"/>
     <file name="u16554-r.png" crc="253430852" ref="designer-babies"/>
@@ -1117,27 +1106,27 @@
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="designer-babies:qa1">
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
+      <caption webpage="designer-babies" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="baby-u2813-fr.jpg" crc="421265172" ref="qa1"/>
     <file name="u32799-4.png" crc="34134976" ref="designer-babies"/>
@@ -1206,26 +1195,18 @@
     <file name="u1327-47.png" crc="4160844091" ref="qa1"/>
     <file name="u1327-48.png" crc="453959604" ref="qa1"/>
     <file name="spacex-81773.jpg" crc="107094223" ref="qa1">
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
     </file>
     <file name="spacex-81773-u1275-fr.jpg" crc="383174503" ref="qa1"/>
     <file name="spacex-81773-u1275-fr2.jpg" crc="4082238056" ref="qa1"/>
     <file name="spacex-81773-u1275-fr3.jpg" crc="3917380860" ref="qa1"/>
     <file name="spacex-81773-u1275-fr4.jpg" crc="3873422432" ref="qa1"/>
     <file name="img_20160521_211818.jpg" crc="534596900" ref="qa1">
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -1234,16 +1215,16 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="img_20160412_194327.jpg" crc="482476295" ref="qa1">
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -1252,19 +1233,27 @@
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="blog-post-independent-favicon.ico" crc="157611239" ref="designer-babies"/>
     <file name="robo1.jpg" crc="450775979" ref="qa1">
-      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="pexels-photo-51171.jpg" crc="90235435" ref="qa1">
-      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="drone1.jpg" crc="235857291" ref="qa1">
-      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="dev" alt=""/>
     </file>
     <file name="spacex-81773-u1275-fr5.jpg" crc="4204453658" ref="qa1"/>
     <file name="1504246_10205242192232389_195430365998099518_o.jpg" crc="3975106448" ref="designer-babies">
@@ -1275,7 +1264,6 @@
     </file>
     <file name="drone1-u148037-fr.jpg" crc="4244743381" ref="designer-babies"/>
     <file name="experimental-favicon.ico" crc="157611239" ref="qa1"/>
-    <file name="home2-favicon.ico" crc="157611239" ref="home2"/>
     <file name="john-cobb-13961.jpg" crc="412323308" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1295,7 +1283,7 @@
   </folder>
   <file name="index.html" crc="4249622409" seo="true" mt="1494274665066" redirect="true"/>
   <file name="designer-babies.html" crc="481210667" seo="true" mt="1493745186222" redirect="true"/>
-  <file name="qa1.html" crc="3868577637" seo="true" mt="1494112835842" redirect="true"/>
-  <file name="home2.html" crc="504616372" seo="true" mt="1493742779796" redirect="true"/>
-  <file name="podcast.html" crc="4078528198" seo="true" mt="1494274368069" redirect="true"/>
+  <file name="qa1.html" crc="3976603992" seo="true" mt="1494287209052" redirect="true"/>
+  <file name="podcast.html" crc="492446929" seo="true" mt="1494291593879" redirect="true"/>
+  <file name="untitled-6.html" crc="4076348404" seo="true" mt="1494286936682" redirect="false"/>
 </manifest>
