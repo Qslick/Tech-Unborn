@@ -7,12 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techunborn.com/untitled-6.html</loc>
-    <lastmod>2017-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://techunborn.com/podcast.html</loc>
     <lastmod>2017-05-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,6 +28,12 @@
     </image:image>
   </url>
   <url>
+    <loc>http://techunborn.com/untitled-6.html</loc>
+    <lastmod>2017-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://techunborn.com/designer-babies.html</loc>
     <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,14 +43,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/play.png</loc>
-    <lastmod>2017-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techunborn.com/assets/pause.png</loc>
-    <lastmod>2017-05-08</lastmod>
+    <loc>http://techunborn.com/assets/vpavic_081216_1321_0006.0.0.jpeg</loc>
+    <lastmod>2017-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,44 +61,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/audio-1.png</loc>
-    <lastmod>2017-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techunborn.com/assets/audio-x.png</loc>
-    <lastmod>2017-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://techunborn.com/assets/495545866.0.jpg</loc>
     <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/vpavic_081216_1321_0006.0.0.jpeg</loc>
-    <lastmod>2017-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://techunborn.com/assets/pebble1_2040.0.0.jpg</loc>
     <lastmod>2017-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techunborn.com/assets/audio-3.png</loc>
-    <lastmod>2017-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://techunborn.com/assets/audio-2.png</loc>
-    <lastmod>2017-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
