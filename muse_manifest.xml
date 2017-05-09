@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494305370927">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494305487931">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -8,7 +8,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
-    <file name="index.css" crc="78330678" ref="index"/>
+    <file name="index.css" crc="4149579685" ref="index"/>
     <file name="master_a-master.css" crc="3876358752" ref="qa1"/>
     <file name="nomq_preview_master_a-master.css" crc="4079542394" ref="qa1"/>
     <file name="designer-babies.css" crc="3779659687" ref="designer-babies"/>
@@ -33,9 +33,9 @@
     <file name="jquery.museresponsive.js" crc="433634197" ref="designer-babies:index:qa1"/>
     <file name="require.js" crc="4234670167" ref="index:designer-babies:qa1:podcast:untitled-6"/>
     <file name="webpro.js" crc="3770351119" ref="qa1:index:podcast:untitled-6"/>
-    <file name="form_check.php" crc="3841221102" ref="qa1"/>
-    <file name="form_throttle.php" crc="4048049783" ref="qa1"/>
-    <file name="form_process.php" crc="3899230280" ref="qa1"/>
+    <file name="form_check.php" crc="3841221102" ref="qa1:index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="qa1:index"/>
+    <file name="form_process.php" crc="3899230280" ref="qa1:index"/>
     <file name="form-u4769.php" crc="4094892685" ref="qa1"/>
     <file name="form-u126582.php" crc="4149550129" ref="qa1"/>
     <file name="form-u159791.php" crc="217879083" ref="index"/>
@@ -1266,7 +1266,7 @@
     <file name="john-cobb-13961-u159385-fr2.jpg" crc="105398845" ref="index"/>
     <file name="u159382-45.png" crc="4236837087" ref="index"/>
     <file name="u159382-46.png" crc="245094475" ref="index"/>
-    <file name="john-cobb-13961-u159385-fr3.jpg" crc="524446453" ref="index"/>
+    <file name="john-cobb-13961-u159385-fr3.jpg" crc="440378497" ref="index"/>
     <file name="u159382-47.png" crc="398503732" ref="index"/>
     <file name="menu-alt-512-u181167.png" crc="63693608" ref="index"/>
     <file name="menu-alt-512-u1811672.png" crc="63693608" ref="index"/>
@@ -1288,7 +1288,7 @@
     <file name="15651-u1828953.png" crc="3891237542" ref="qa1"/>
     <file name="business_contact-u1828973.png" crc="4212738675" ref="qa1"/>
   </folder>
-  <file name="index.html" crc="496157111" seo="true" mt="1494303326912" redirect="true"/>
+  <file name="index.html" crc="250165720" seo="true" mt="1494305475526" redirect="true"/>
   <file name="designer-babies.html" crc="481210667" seo="true" mt="1493745186222" redirect="true"/>
   <file name="qa1.html" crc="3882848841" seo="true" mt="1494305330407" redirect="true"/>
   <file name="podcast.html" crc="4172869346" seo="true" mt="1494293600666" redirect="true"/>
