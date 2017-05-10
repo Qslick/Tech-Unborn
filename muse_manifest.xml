@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494457801867">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494458159379">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -24,17 +24,17 @@
     <file name="podcast.css" crc="463687785" ref="podcast"/>
     <file name="untitled-6.css" crc="3909610173" ref="untitled-6"/>
     <file name="nomq_podcast.css" crc="4057670078" ref="podcast"/>
-    <file name="down.css" crc="3907264571" ref="down"/>
+    <file name="404.css" crc="297209422" ref="404"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designer-babies:qa1:podcast:untitled-6:down"/>
-    <file name="museutils.js" crc="4232573551" ref="index:designer-babies:qa1:podcast:untitled-6:down"/>
-    <file name="whatinput.js" crc="86476730" ref="index:designer-babies:qa1:podcast:untitled-6:down"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:designer-babies:qa1:podcast:untitled-6:down"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:designer-babies:qa1:podcast:down"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:designer-babies:qa1:podcast:untitled-6:down"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designer-babies:qa1:podcast:untitled-6:404"/>
+    <file name="museutils.js" crc="4232573551" ref="index:designer-babies:qa1:podcast:untitled-6:404"/>
+    <file name="whatinput.js" crc="86476730" ref="index:designer-babies:qa1:podcast:untitled-6:404"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:designer-babies:qa1:podcast:untitled-6:404"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:designer-babies:qa1:podcast:404"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:designer-babies:qa1:podcast:untitled-6:404"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="designer-babies:index:qa1:podcast"/>
-    <file name="require.js" crc="4234670167" ref="index:designer-babies:qa1:podcast:untitled-6:down"/>
+    <file name="require.js" crc="4234670167" ref="index:designer-babies:qa1:podcast:untitled-6:404"/>
     <file name="webpro.js" crc="3770351119" ref="qa1:index:untitled-6"/>
     <file name="form_check.php" crc="3841221102" ref="qa1"/>
     <file name="form_throttle.php" crc="4048049783" ref="qa1"/>
@@ -1289,7 +1289,8 @@
     <file name="u243450-42.png" crc="3914721808" ref="podcast"/>
     <file name="u243450-43.png" crc="3914721808" ref="podcast"/>
     <file name="u243450-44.png" crc="3914721808" ref="podcast"/>
-    <file name="59439_rick_and_morty_giant_heads.jpg" crc="98276610" ref="down">
+    <file name="59439_rick_and_morty_giant_heads.jpg" crc="98276610" ref="404">
+      <caption webpage="404" alt=""/>
       <caption webpage="down" alt=""/>
     </file>
   </folder>
@@ -1298,5 +1299,5 @@
   <file name="qa1.html" crc="255275702" seo="true" mt="1494446699782" redirect="true"/>
   <file name="podcast.html" crc="510969581" seo="true" mt="1494457786535" redirect="true"/>
   <file name="untitled-6.html" crc="4116945544" seo="true" mt="1494307445061" redirect="true"/>
-  <file name="down.html" crc="4150520806" seo="true" mt="1494457342426" redirect="true"/>
+  <file name="404.html" crc="497525080" seo="true" mt="1494458123840" redirect="true"/>
 </manifest>
