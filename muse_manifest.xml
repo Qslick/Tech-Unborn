@@ -1,24 +1,25 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494368770974">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494377538765">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
     <file name="vpavic_081216_1321_0006.0.0.jpeg" crc="238312555" seo="true" mt="1491640768000"/>
     <file name="designer-babies.mp3" crc="183457585" seo="true" mt="1494262025000"/>
     <file name="pdcastimg.png" crc="70557737" seo="true" mt="1493517722000"/>
+    <file name="planet-logo.jpg" crc="4124234257" seo="true" mt="1493515227000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3870883528"/>
-    <file name="index.css" crc="393397644" ref="index"/>
+    <file name="index.css" crc="4165442446" ref="index"/>
     <file name="master_a-master.css" crc="3772441082" ref="qa1"/>
     <file name="nomq_preview_master_a-master.css" crc="4174458775" ref="qa1"/>
     <file name="designer-babies.css" crc="3779659687" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="529202740" ref="designer-babies"/>
-    <file name="nomq_index.css" crc="339706311" ref="index"/>
+    <file name="nomq_index.css" crc="3966176542" ref="index"/>
     <file name="master_blog-post-independent.css" crc="3818849583" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
-    <file name="qa1.css" crc="4186298793" ref="qa1"/>
-    <file name="nomq_qa1.css" crc="4115160954" ref="qa1"/>
-    <file name="master_c.css" crc="117578536" ref="index"/>
+    <file name="qa1.css" crc="233533048" ref="qa1"/>
+    <file name="nomq_qa1.css" crc="3844053719" ref="qa1"/>
+    <file name="master_c.css" crc="4097742593" ref="index"/>
     <file name="nomq_preview_master_c.css" crc="3812541963" ref="index"/>
     <file name="podcast.css" crc="4186250431" ref="podcast"/>
     <file name="untitled-6.css" crc="3909610173" ref="untitled-6"/>
@@ -1111,8 +1112,8 @@
     <file name="voco-demoed-on-stage-760x380.jpg" crc="341920945" ref="qa1">
       <caption webpage="index" alt=""/>
       <caption webpage="dev" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="qa1" alt=""/>
     </file>
     <file name="u1327-43.png" crc="4281857223" ref="qa1"/>
@@ -1138,28 +1139,28 @@
     <file name="u165542.png" crc="319165955" ref="designer-babies"/>
     <file name="u16554-r2.png" crc="4290026233" ref="designer-babies"/>
     <file name="baby.jpg" crc="4000911726" ref="designer-babies:qa1">
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
+      <caption webpage="qa1" alt=""/>
     </file>
     <file name="baby-u2813-fr.jpg" crc="421265172" ref="qa1"/>
     <file name="u32799-4.png" crc="34134976" ref="designer-babies"/>
@@ -1318,23 +1319,14 @@
     <file name="menu-alt-512-u1811672.png" crc="63693608" ref="index"/>
     <file name="menu-alt-512-u1811673.png" crc="63693608" ref="index"/>
     <file name="menu-alt-512-u1811674.png" crc="63693608" ref="index"/>
-    <file name="planet logo.jpg" crc="4015091440" ref="qa1">
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-      <caption webpage="qa1" alt=""/>
-    </file>
-    <file name="planet logo-u211545-fr.jpg" crc="94772246" ref="qa1"/>
-    <file name="planet logo-u211545-fr2.jpg" crc="4073070351" ref="qa1"/>
-    <file name="planet logo-u211545-fr3.jpg" crc="107850161" ref="qa1"/>
-    <file name="planet logo-u211545-fr4.jpg" crc="4112531497" ref="qa1"/>
-    <file name="planet logo-u211545-fr5.jpg" crc="4060115552" ref="qa1"/>
-    <file name="planet logo-u211545-fr6.jpg" crc="3821430975" ref="qa1"/>
+    <file name="planet logo-u211545-fr.jpg" crc="4060115552" ref="qa1"/>
+    <file name="planet logo-u211545-fr2.jpg" crc="3821430975" ref="qa1"/>
     <file name="spacex-81773-u1275-fr6.jpg" crc="3783948094" ref="qa1"/>
     <file name="u1327-49.png" crc="51820470" ref="qa1"/>
   </folder>
-  <file name="index.html" crc="3819082834" seo="true" mt="1494368718889" redirect="true"/>
+  <file name="index.html" crc="223783209" seo="true" mt="1494305677003" redirect="true"/>
   <file name="designer-babies.html" crc="481210667" seo="true" mt="1493745186222" redirect="true"/>
-  <file name="qa1.html" crc="205258604" seo="true" mt="1494368735417" redirect="true"/>
+  <file name="qa1.html" crc="120439590" seo="true" mt="1494376688428" redirect="true"/>
   <file name="podcast.html" crc="4172869346" seo="true" mt="1494293600666" redirect="true"/>
   <file name="untitled-6.html" crc="4116945544" seo="true" mt="1494307445061" redirect="true"/>
 </manifest>
