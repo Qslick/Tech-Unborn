@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494471199875">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494471519740">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -23,17 +23,17 @@
     <file name="nomq_preview_master_a-team.css" crc="4079542394" ref="qa1"/>
     <file name="master_b-team.css" crc="3924109446" ref="podcast:index"/>
     <file name="nomq_preview_master_b-team.css" crc="211549622" ref="podcast:index"/>
-    <file name="techunborn_com1.css" crc="4234186669" ref="techunborn.com1"/>
+    <file name="1.css" crc="4234186669" ref="1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designer-babies:qa1:podcast:404:techunborn.com1"/>
-    <file name="museutils.js" crc="4232573551" ref="index:designer-babies:qa1:podcast:404:techunborn.com1"/>
-    <file name="whatinput.js" crc="86476730" ref="index:designer-babies:qa1:podcast:404:techunborn.com1"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:designer-babies:qa1:podcast:404:techunborn.com1"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designer-babies:qa1:podcast:404:1"/>
+    <file name="museutils.js" crc="4232573551" ref="index:designer-babies:qa1:podcast:404:1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:designer-babies:qa1:podcast:404:1"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:designer-babies:qa1:podcast:404:1"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:designer-babies:qa1:podcast:404"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:designer-babies:qa1:podcast:404:techunborn.com1"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:designer-babies:qa1:podcast:404:1"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="designer-babies:index:qa1:podcast"/>
-    <file name="require.js" crc="4234670167" ref="index:designer-babies:qa1:podcast:404:techunborn.com1"/>
+    <file name="require.js" crc="4234670167" ref="index:designer-babies:qa1:podcast:404:1"/>
     <file name="webpro.js" crc="3770351119" ref="qa1:index"/>
     <file name="form_check.php" crc="3841221102" ref="qa1"/>
     <file name="form_throttle.php" crc="4048049783" ref="qa1"/>
@@ -1299,5 +1299,5 @@
   <file name="qa1.html" crc="4086151224" seo="true" mt="1494471041409" redirect="true"/>
   <file name="podcast.html" crc="363050860" seo="true" mt="1494470925182" redirect="true"/>
   <file name="404.html" crc="82600246" seo="true" mt="1494459161575" redirect="true"/>
-  <file name="techunborn.com1.html" crc="27394776" seo="true" mt="1494470741444" redirect="true"/>
+  <file name="1.html" crc="4222383456" mt="1494471510597" redirect="true"/>
 </manifest>
