@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494472163519">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494473429705">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -14,8 +14,8 @@
     <file name="nomq_index.css" crc="3961048394" ref="index"/>
     <file name="master_blog-post-independent.css" crc="4291464134" ref="designer-babies"/>
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
-    <file name="qa1.css" crc="472864320" ref="qa1"/>
-    <file name="nomq_qa1.css" crc="136062700" ref="qa1"/>
+    <file name="qa1.css" crc="123408616" ref="qa1"/>
+    <file name="nomq_qa1.css" crc="174213315" ref="qa1"/>
     <file name="podcast.css" crc="1034469" ref="podcast"/>
     <file name="nomq_podcast.css" crc="4070032908" ref="podcast"/>
     <file name="404.css" crc="4180786391" ref="404"/>
@@ -1188,10 +1188,10 @@
     <file name="u1327-47.png" crc="419218996" ref="qa1"/>
     <file name="u1327-48.png" crc="51820470" ref="qa1"/>
     <file name="spacex-81773.jpg" crc="107094223" ref="qa1">
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
       <caption webpage="dev-copy" alt=""/>
       <caption webpage="dev-copy" alt=""/>
     </file>
@@ -1296,7 +1296,7 @@
   </folder>
   <file name="index.html" crc="155979535" seo="true" mt="1494470430209" redirect="true"/>
   <file name="designer-babies.html" crc="307751863" seo="true" mt="1494472158141" redirect="true"/>
-  <file name="qa1.html" crc="4086151224" seo="true" mt="1494471041409" redirect="true"/>
+  <file name="qa1.html" crc="4279222139" seo="true" mt="1494473303255" redirect="true"/>
   <file name="podcast.html" crc="363050860" seo="true" mt="1494470925182" redirect="true"/>
   <file name="404.html" crc="82600246" seo="true" mt="1494459161575" redirect="true"/>
   <file name="1.html" crc="4222383456" mt="1494471510597" redirect="true"/>
