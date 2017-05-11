@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494534169839">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494536038929">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -9,8 +9,8 @@
   <folder name="css">
     <file name="site_global.css" crc="3870883528"/>
     <file name="index.css" crc="300856054" ref="index"/>
-    <file name="designer-babies.css" crc="162743603" ref="designer-babies"/>
-    <file name="nomq_designer-babies.css" crc="419894124" ref="designer-babies"/>
+    <file name="designer-babies.css" crc="309320504" ref="designer-babies"/>
+    <file name="nomq_designer-babies.css" crc="4279426759" ref="designer-babies"/>
     <file name="nomq_index.css" crc="104337230" ref="index"/>
     <file name="qa1.css" crc="375034598" ref="qa1"/>
     <file name="nomq_qa1.css" crc="4117123690" ref="qa1"/>
@@ -22,14 +22,14 @@
     <file name="master_b-team.css" crc="64399558" ref="podcast:index"/>
     <file name="nomq_preview_master_b-team.css" crc="211549622" ref="podcast:index"/>
     <file name="1.css" crc="4234186669" ref="1"/>
-    <file name="master_story-team-menu.css" crc="3932946612" ref="designer-babies"/>
-    <file name="nomq_preview_master_story-team-menu.css" crc="3760239348" ref="designer-babies"/>
+    <file name="master_story-team-menu.css" crc="443009573" ref="designer-babies"/>
+    <file name="nomq_preview_master_story-team-menu.css" crc="3904568535" ref="designer-babies"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designer-babies:qa1:podcast:404:1"/>
     <file name="museutils.js" crc="4232573551" ref="index:designer-babies:qa1:podcast:404:1"/>
     <file name="whatinput.js" crc="86476730" ref="index:designer-babies:qa1:podcast:404:1"/>
-    <file name="museconfig.js" crc="4163635208" ref="index:designer-babies:qa1:podcast:404:1"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:designer-babies:qa1:podcast:404:1"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:designer-babies:qa1:podcast:404"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:designer-babies:qa1:podcast:404:1"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="designer-babies:index:qa1:podcast"/>
@@ -329,12 +329,12 @@
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
-      <caption webpage="spacex" alt=""/>
       <caption webpage="dev" alt=""/>
       <caption webpage="dev" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
+      <caption webpage="spacex" alt=""/>
     </file>
     <file name="mars-house.jpg" crc="40647797" ref="qa1">
       <caption webpage="index" alt=""/>
@@ -1097,19 +1097,19 @@
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
+      <caption webpage="dev-copy" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
       <caption webpage="spacex" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev-copy" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
-      <caption webpage="dev" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
       <caption webpage="qa1" alt=""/>
@@ -1150,22 +1150,22 @@
     <file name="u31360-4.png" crc="4000534475" ref="designer-babies"/>
     <file name="u31366-4.png" crc="3881402886" ref="designer-babies"/>
     <file name="crispr-u28370-fr.jpg" crc="4001850251" ref="designer-babies"/>
-    <file name="u165543.png" crc="204397972" ref="designer-babies"/>
-    <file name="u16554-r3.png" crc="4223048" ref="designer-babies"/>
-    <file name="u165223.png" crc="79268255" ref="designer-babies"/>
-    <file name="u16522-r3.png" crc="4004807834" ref="designer-babies"/>
-    <file name="u165293.png" crc="3891223525" ref="designer-babies"/>
-    <file name="u16529-r3.png" crc="241648166" ref="designer-babies"/>
-    <file name="u165363.png" crc="153671838" ref="designer-babies"/>
-    <file name="u16536-r3.png" crc="77733415" ref="designer-babies"/>
-    <file name="u165544.png" crc="378752838" ref="designer-babies"/>
-    <file name="u16554-r4.png" crc="519132056" ref="designer-babies"/>
-    <file name="u165224.png" crc="164649379" ref="designer-babies"/>
-    <file name="u16522-r4.png" crc="4179256853" ref="designer-babies"/>
-    <file name="u165294.png" crc="3824317652" ref="designer-babies"/>
-    <file name="u16529-r4.png" crc="333310611" ref="designer-babies"/>
-    <file name="u165364.png" crc="4183401672" ref="designer-babies"/>
-    <file name="u16536-r4.png" crc="325206213" ref="designer-babies"/>
+    <file name="u165543.png" crc="319165955" ref="designer-babies"/>
+    <file name="u16554-r3.png" crc="4290026233" ref="designer-babies"/>
+    <file name="u165223.png" crc="183587077" ref="designer-babies"/>
+    <file name="u16522-r3.png" crc="4126109571" ref="designer-babies"/>
+    <file name="u165293.png" crc="57702642" ref="designer-babies"/>
+    <file name="u16529-r3.png" crc="150988885" ref="designer-babies"/>
+    <file name="u165363.png" crc="52672247" ref="designer-babies"/>
+    <file name="u16536-r3.png" crc="62839029" ref="designer-babies"/>
+    <file name="u165544.png" crc="319165955" ref="designer-babies"/>
+    <file name="u16554-r4.png" crc="4290026233" ref="designer-babies"/>
+    <file name="u165224.png" crc="183587077" ref="designer-babies"/>
+    <file name="u16522-r4.png" crc="4126109571" ref="designer-babies"/>
+    <file name="u165294.png" crc="57702642" ref="designer-babies"/>
+    <file name="u16529-r4.png" crc="150988885" ref="designer-babies"/>
+    <file name="u165364.png" crc="52672247" ref="designer-babies"/>
+    <file name="u16536-r4.png" crc="62839029" ref="designer-babies"/>
     <file name="baby-u16725-fr.jpg" crc="4210365873" ref="designer-babies"/>
     <file name="u165545.png" crc="4157067765" ref="designer-babies"/>
     <file name="u16554-r5.png" crc="77670106" ref="designer-babies"/>
@@ -1278,11 +1278,6 @@
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
-      <caption webpage="designer-babies" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1325,7 +1320,7 @@
     <file name="tu logo white_poster_.png" crc="4223998445" ref="qa1"/>
   </folder>
   <file name="index.html" crc="4280312676" seo="true" mt="1494534068998" redirect="true"/>
-  <file name="designer-babies.html" crc="3809391598" seo="true" mt="1494534086297" redirect="true"/>
+  <file name="designer-babies.html" crc="4051547341" seo="true" mt="1494535511000" redirect="true"/>
   <file name="qa1.html" crc="4255997776" seo="true" mt="1494534092896" redirect="true"/>
   <file name="podcast.html" crc="386109672" seo="true" mt="1494534135057" redirect="true"/>
   <file name="404.html" crc="9280897" seo="true" mt="1494533830409" redirect="true"/>
