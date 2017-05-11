@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://techunborn.com/index.html</loc>
-    <lastmod>2017-05-10</lastmod>
+    <lastmod>2017-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://techunborn.com/podcast.html</loc>
     <lastmod>2017-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://techunborn.com/qa1.html</loc>
@@ -26,12 +32,18 @@
     <image:image>
       <image:loc>http://techunborn.com/images/play-button-(6).svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://techunborn.com/404.html</loc>
-    <lastmod>2017-05-10</lastmod>
+    <lastmod>2017-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://techunborn.com/designer-babies.html</loc>
@@ -40,6 +52,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://techunborn.com/images/crisper2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
     </image:image>
   </url>
   <url>
