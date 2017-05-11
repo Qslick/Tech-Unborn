@@ -8,13 +8,13 @@
   </url>
   <url>
     <loc>http://techunborn.com/podcast.html</loc>
-    <lastmod>2017-05-10</lastmod>
+    <lastmod>2017-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://techunborn.com/qa1.html</loc>
-    <lastmod>2017-05-10</lastmod>
+    <lastmod>2017-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -55,7 +55,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://techunborn.com/assets/planet-logo.jpg</loc>
+    <loc>http://techunborn.com/assets/planetlogo.jpg</loc>
     <lastmod>2017-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
