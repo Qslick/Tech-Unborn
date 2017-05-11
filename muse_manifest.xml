@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494461340521">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494464136344">
   <folder name="assets">
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="495545866.0.jpg" crc="206327031" seo="true" mt="1491279182000"/>
@@ -18,10 +18,10 @@
     <file name="nomq_preview_master_blog-post-independent.css" crc="385097906" ref="designer-babies"/>
     <file name="qa1.css" crc="4242338071" ref="qa1"/>
     <file name="nomq_qa1.css" crc="4281980691" ref="qa1"/>
-    <file name="master_c.css" crc="3963744972" ref="index:podcast"/>
+    <file name="master_c.css" crc="142514375" ref="index:podcast"/>
     <file name="nomq_preview_master_c.css" crc="211549622" ref="index:podcast"/>
-    <file name="podcast.css" crc="4263823879" ref="podcast"/>
-    <file name="nomq_podcast.css" crc="386974731" ref="podcast"/>
+    <file name="podcast.css" crc="4263933645" ref="podcast"/>
+    <file name="nomq_podcast.css" crc="4074767148" ref="podcast"/>
     <file name="404.css" crc="4180786391" ref="404"/>
   </folder>
   <folder name="scripts">
@@ -1279,22 +1279,24 @@
       <caption webpage="podcast" alt=""/>
       <caption webpage="podcast" alt=""/>
       <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
     </file>
-    <file name="u243450-4.png" crc="3914721808" ref="podcast"/>
+    <file name="u243450-4.png" crc="4082932568" ref="podcast"/>
     <file name="planet logo-u243951-fr.jpg" crc="3901883959" ref="podcast"/>
-    <file name="u243450-42.png" crc="3914721808" ref="podcast"/>
-    <file name="u243450-43.png" crc="3914721808" ref="podcast"/>
-    <file name="u243450-44.png" crc="3914721808" ref="podcast"/>
+    <file name="u243450-42.png" crc="3908171041" ref="podcast"/>
+    <file name="u243450-43.png" crc="329191378" ref="podcast"/>
+    <file name="u243450-44.png" crc="3795015106" ref="podcast"/>
     <file name="59439_rick_and_morty_giant_heads.jpg" crc="98276610" ref="404">
       <caption webpage="404" alt=""/>
       <caption webpage="down" alt=""/>
     </file>
     <file name="u246167-4.png" crc="500127657" ref="404"/>
+    <file name="william-iven-5894-u243439-fr.jpg" crc="393471924" ref="podcast"/>
+    <file name="william-iven-5894-u243439-fr2.jpg" crc="4050645299" ref="podcast"/>
+    <file name="u243450-45.png" crc="153188981" ref="podcast"/>
   </folder>
   <file name="index.html" crc="3785459903" seo="true" mt="1494447317803" redirect="true"/>
   <file name="designer-babies.html" crc="481210667" seo="true" mt="1493745186222" redirect="true"/>
   <file name="qa1.html" crc="3781671758" seo="true" mt="1494460336681" redirect="true"/>
-  <file name="podcast.html" crc="447704623" seo="true" mt="1494461328688" redirect="true"/>
+  <file name="podcast.html" crc="491863538" seo="true" mt="1494464059457" redirect="true"/>
   <file name="404.html" crc="82600246" seo="true" mt="1494459161575" redirect="true"/>
 </manifest>
