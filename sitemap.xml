@@ -50,6 +50,9 @@
     <image:image>
       <image:loc>http://techunborn.com/images/tu-logo-white2.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/up-arrow.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://techunborn.com/designer-babies.html</loc>
