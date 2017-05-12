@@ -35,6 +35,12 @@
     <image:image>
       <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-black.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-white2.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://techunborn.com/404.html</loc>
