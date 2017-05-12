@@ -10,7 +10,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://techunborn.com/podcast.html</loc>
+    <loc>http://techunborn.com/404.html</loc>
     <lastmod>2017-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -19,7 +19,16 @@
     </image:image>
   </url>
   <url>
-    <loc>http://techunborn.com/qa1.html</loc>
+    <loc>http://techunborn.com/podcast.html</loc>
+    <lastmod>2017-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://techunborn.com/qa.html</loc>
     <lastmod>2017-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -40,15 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>http://techunborn.com/images/tu-logo-white2.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://techunborn.com/404.html</loc>
-    <lastmod>2017-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://techunborn.com/images/tu-logo-white.svg</image:loc>
     </image:image>
   </url>
   <url>
