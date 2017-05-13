@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494661944517">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494687249343">
   <folder name="css">
-    <file name="site_global.css" crc="3870883528"/>
+    <file name="site_global.css" crc="4032741081"/>
     <file name="master_story-team-menu.css" crc="3793351766" ref="designer-babies"/>
     <file name="nomq_preview_master_story-team-menu.css" crc="3859828770" ref="designer-babies"/>
-    <file name="master_a-team.css" crc="55208425" ref="qa"/>
+    <file name="master_a-team.css" crc="195187625" ref="qa"/>
     <file name="nomq_preview_master_a-team.css" crc="4079542394" ref="qa"/>
     <file name="master_b-team.css" crc="4051154586" ref="index:podcast"/>
     <file name="nomq_preview_master_b-team.css" crc="211549622" ref="index:podcast"/>
     <file name="index.css" crc="39115432" ref="index"/>
     <file name="nomq_index.css" crc="153049742" ref="index"/>
-    <file name="qa.css" crc="4250699901" ref="qa"/>
-    <file name="nomq_qa.css" crc="437097577" ref="qa"/>
+    <file name="qa.css" crc="351199944" ref="qa"/>
+    <file name="nomq_qa.css" crc="237801337" ref="qa"/>
     <file name="1.css" crc="4234186669" ref="1"/>
     <file name="podcast.css" crc="294565302" ref="podcast"/>
     <file name="nomq_podcast.css" crc="380551793" ref="podcast"/>
@@ -46,18 +46,6 @@
   </folder>
   <folder name="images">
     <file name="experimental-favicon.ico" crc="157611239" ref="qa"/>
-    <file name="banner.jpg" crc="4051860493" ref="qa">
-      <caption webpage="qa" alt=""/>
-    </file>
-    <file name="tu-logo-black.svg" crc="3957134392" seo="true" ref="qa">
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-    </file>
-    <file name="tu logo black_poster_.png" crc="517342762" ref="qa"/>
     <file name="pattern-bg.jpg" crc="3932411018" ref="qa">
       <caption webpage="qa" alt=""/>
       <caption webpage="qa" alt=""/>
@@ -451,6 +439,8 @@
       <caption webpage="qa" alt=""/>
       <caption webpage="qa" alt=""/>
       <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
       <caption webpage="podcast" alt=""/>
       <caption webpage="podcast" alt=""/>
       <caption webpage="podcast" alt=""/>
@@ -460,24 +450,23 @@
       <caption webpage="podcast" alt=""/>
       <caption webpage="podcast" alt=""/>
     </file>
-    <file name="tu logo white_poster_.png" crc="320841917" ref="qa"/>
-    <file name="banner-u1275-fr.jpg" crc="363173046" ref="qa"/>
+    <file name="tu logo white_poster_.png" crc="134674000" ref="qa"/>
     <file name="baby-u2813-fr.jpg" crc="421265172" ref="qa"/>
-    <file name="banner-u1275-fr2.jpg" crc="284084043" ref="qa"/>
     <file name="planetlogo-u328658-fr2.jpg" crc="279646573" ref="qa"/>
-    <file name="banner-u1275-fr3.jpg" crc="4101179242" ref="qa"/>
-    <file name="banner-u1275-fr4.jpg" crc="3948742292" ref="qa"/>
-    <file name="banner-u1275-fr5.jpg" crc="3988667112" ref="qa"/>
     <file name="menu-alt-512-u296779.png" crc="63693608" ref="qa"/>
     <file name="tu-logo-white2.svg" crc="4182537169" seo="true" ref="qa">
       <caption webpage="qa" alt=""/>
       <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
     </file>
-    <file name="tu logo white_poster_2.png" crc="4038622519" ref="qa"/>
-    <file name="banner-u1275-fr6.jpg" crc="294851557" ref="qa"/>
+    <file name="tu logo white_poster_2.png" crc="320841917" ref="qa"/>
     <file name="planetlogo-u211545-fr.jpg" crc="3910523338" ref="qa"/>
     <file name="menu-alt-512-u2967792.png" crc="63693608" ref="qa"/>
-    <file name="banner-u1275-fr7.jpg" crc="249615080" ref="qa"/>
     <file name="planetlogo-u211545-fr2.jpg" crc="3922232760" ref="qa"/>
     <file name="story-team-menu-favicon.ico" crc="157611239" ref="designer-babies"/>
     <file name="u16554.png" crc="474133425" ref="designer-babies"/>
@@ -571,8 +560,14 @@
     <file name="59439_rick_and_morty_giant_heads.jpg" crc="98276610" ref="404">
       <caption webpage="404" alt=""/>
     </file>
+    <file name="cube.jpg" crc="3876081803" ref="qa">
+      <caption webpage="qa" alt=""/>
+    </file>
+    <file name="cube-u1275-fr.jpg" crc="4200958184" ref="qa"/>
+    <file name="cube-u1275-fr2.jpg" crc="3995516737" ref="qa"/>
+    <file name="cube-u1275-fr3.jpg" crc="54693416" ref="qa"/>
   </folder>
-  <file name="qa.html" crc="3900570119" seo="true" mt="1494661682843" redirect="true"/>
+  <file name="qa.html" crc="63581723" seo="true" mt="1494687231498" redirect="true"/>
   <file name="designer-babies.html" crc="4117541263" seo="true" mt="1494659851804" redirect="true"/>
   <file name="podcast.html" crc="252687168" seo="true" mt="1494659851493" redirect="true"/>
   <file name="index.html" crc="421179272" seo="true" mt="1494659806304" redirect="true"/>
