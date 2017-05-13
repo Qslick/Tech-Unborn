@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494661420651">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494661821468">
   <folder name="css">
     <file name="site_global.css" crc="3870883528"/>
     <file name="master_story-team-menu.css" crc="3793351766" ref="designer-babies"/>
@@ -9,8 +9,8 @@
     <file name="nomq_preview_master_b-team.css" crc="211549622" ref="index:podcast"/>
     <file name="index.css" crc="39115432" ref="index"/>
     <file name="nomq_index.css" crc="153049742" ref="index"/>
-    <file name="qa.css" crc="142005154" ref="qa"/>
-    <file name="nomq_qa.css" crc="437097577" ref="qa"/>
+    <file name="qa.css" crc="129187518" ref="qa"/>
+    <file name="nomq_qa.css" crc="4048639069" ref="qa"/>
     <file name="1.css" crc="4234186669" ref="1"/>
     <file name="podcast.css" crc="294565302" ref="podcast"/>
     <file name="nomq_podcast.css" crc="380551793" ref="podcast"/>
@@ -22,7 +22,6 @@
     <file name="pebble1_2040.0.0.jpg" crc="352985793" seo="true" mt="1491466664000"/>
     <file name="vpavic_081216_1321_0006.0.0.jpeg" crc="238312555" seo="true" mt="1491640768000"/>
     <file name="banner.jpg" crc="4002326957" seo="true" mt="1494652855000"/>
-    <file name="design-babies-mono.mp3" crc="376339438" seo="true" mt="1494655550000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="qa:designer-babies:podcast:index:404:1"/>
@@ -154,14 +153,14 @@
       <caption webpage="qa" alt=""/>
     </file>
     <file name="baby.jpg" crc="4000911726" ref="qa:designer-babies">
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
     </file>
     <file name="play-button-(6).svg" crc="3961079179" seo="true" ref="qa">
       <caption webpage="qa" alt=""/>
@@ -438,27 +437,27 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="podcast" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
+      <caption webpage="qa" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
       <caption webpage="designer-babies" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="qa" alt=""/>
-      <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
-      <caption webpage="podcast" alt=""/>
     </file>
     <file name="tu logo white_poster_.png" crc="320841917" ref="qa"/>
     <file name="banner-u1275-fr.jpg" crc="363173046" ref="qa"/>
@@ -572,7 +571,7 @@
       <caption webpage="404" alt=""/>
     </file>
   </folder>
-  <file name="qa.html" crc="448391352" seo="true" mt="1494661335911" redirect="true"/>
+  <file name="qa.html" crc="4103238389" seo="true" mt="1494661739000" redirect="true"/>
   <file name="designer-babies.html" crc="4117541263" seo="true" mt="1494659851804" redirect="true"/>
   <file name="podcast.html" crc="252687168" seo="true" mt="1494659851493" redirect="true"/>
   <file name="index.html" crc="421179272" seo="true" mt="1494659806304" redirect="true"/>
