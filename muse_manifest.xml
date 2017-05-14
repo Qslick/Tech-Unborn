@@ -1,19 +1,19 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494780304377">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494782888476">
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
     <file name="master_story-team-menu.css" crc="3793351766" ref="designer-babies"/>
     <file name="nomq_preview_master_story-team-menu.css" crc="3859828770" ref="designer-babies"/>
-    <file name="master_a-team.css" crc="195187625" ref="qa"/>
-    <file name="nomq_preview_master_a-team.css" crc="4079542394" ref="qa"/>
+    <file name="master_a-team.css" crc="4191251940" ref="qa"/>
+    <file name="nomq_preview_master_a-team.css" crc="3909925480" ref="qa"/>
     <file name="master_b-team.css" crc="98679977" ref="index:podcast"/>
     <file name="nomq_preview_master_b-team.css" crc="211549622" ref="index:podcast"/>
     <file name="index.css" crc="39115432" ref="index"/>
     <file name="nomq_index.css" crc="153049742" ref="index"/>
-    <file name="qa.css" crc="3858730702" ref="qa"/>
-    <file name="nomq_qa.css" crc="4142718396" ref="qa"/>
+    <file name="qa.css" crc="4202150508" ref="qa"/>
+    <file name="nomq_qa.css" crc="68704243" ref="qa"/>
     <file name="1.css" crc="4234186669" ref="1"/>
-    <file name="podcast.css" crc="4289531324" ref="podcast"/>
-    <file name="nomq_podcast.css" crc="3944047622" ref="podcast"/>
+    <file name="podcast.css" crc="361997222" ref="podcast"/>
+    <file name="nomq_podcast.css" crc="108711239" ref="podcast"/>
     <file name="404.css" crc="341419802" ref="404"/>
     <file name="designer-babies.css" crc="9356878" ref="designer-babies"/>
     <file name="nomq_designer-babies.css" crc="165190927" ref="designer-babies"/>
@@ -24,6 +24,7 @@
     <file name="banner.jpg" crc="4002326957" seo="true" mt="1494652855000"/>
     <file name="design-babies-mono.mp3" crc="376339438" seo="true" mt="1494655550000"/>
     <file name="planet-logo.jpg" crc="4124234257" seo="true" mt="1493515227000"/>
+    <file name="planet-logo2.jpg" crc="4124234257" seo="true" mt="1494688140000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="qa:designer-babies:podcast:index:404:1"/>
@@ -545,7 +546,7 @@
     <file name="u16536-r5.png" crc="468604445" ref="designer-babies"/>
     <file name="baby-u16725-fr2.jpg" crc="4222963697" ref="designer-babies"/>
     <file name="crispr-u28370-fr2.jpg" crc="118978647" ref="designer-babies"/>
-    <file name="william-iven-5894.jpg" crc="3990972611" ref="podcast">
+    <file name="william-iven-5894.jpg" crc="19027688" ref="podcast">
       <caption webpage="podcast" alt=""/>
       <caption webpage="podcast" alt=""/>
       <caption webpage="podcast" alt=""/>
@@ -574,9 +575,9 @@
     <file name="cube-u1275-fr2.jpg" crc="3995516737" ref="qa"/>
     <file name="cube-u1275-fr3.jpg" crc="54693416" ref="qa"/>
   </folder>
-  <file name="qa.html" crc="3806639517" seo="true" mt="1494780134699" redirect="true"/>
+  <file name="qa.html" crc="4038248575" seo="true" mt="1494782668218" redirect="true"/>
   <file name="designer-babies.html" crc="4117541263" seo="true" mt="1494659851804" redirect="true"/>
-  <file name="podcast.html" crc="337871241" seo="true" mt="1494779320103" redirect="true"/>
+  <file name="podcast.html" crc="4294537587" seo="true" mt="1494782733390" redirect="true"/>
   <file name="index.html" crc="421179272" seo="true" mt="1494659806304" redirect="true"/>
   <file name="404.html" crc="224047824" seo="true" mt="1494550336764" redirect="true"/>
   <file name="1.html" crc="394565476" mt="1494471510597" redirect="true"/>
