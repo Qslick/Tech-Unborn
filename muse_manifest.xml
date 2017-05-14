@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494688397477">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="techunborn.com" resolutions="1x" timestamp="1494702917091">
   <folder name="css">
     <file name="site_global.css" crc="4032741081"/>
     <file name="master_story-team-menu.css" crc="3793351766" ref="designer-babies"/>
@@ -9,8 +9,8 @@
     <file name="nomq_preview_master_b-team.css" crc="211549622" ref="index:podcast"/>
     <file name="index.css" crc="39115432" ref="index"/>
     <file name="nomq_index.css" crc="153049742" ref="index"/>
-    <file name="qa.css" crc="450607602" ref="qa"/>
-    <file name="nomq_qa.css" crc="57391542" ref="qa"/>
+    <file name="qa.css" crc="4096330842" ref="qa"/>
+    <file name="nomq_qa.css" crc="3995368316" ref="qa"/>
     <file name="1.css" crc="4234186669" ref="1"/>
     <file name="podcast.css" crc="294565302" ref="podcast"/>
     <file name="nomq_podcast.css" crc="380551793" ref="podcast"/>
@@ -566,7 +566,7 @@
     <file name="cube-u1275-fr2.jpg" crc="3995516737" ref="qa"/>
     <file name="cube-u1275-fr3.jpg" crc="54693416" ref="qa"/>
   </folder>
-  <file name="qa.html" crc="3834975607" seo="true" mt="1494688323964" redirect="true"/>
+  <file name="qa.html" crc="4191301485" seo="true" mt="1494702837000" redirect="true"/>
   <file name="designer-babies.html" crc="4117541263" seo="true" mt="1494659851804" redirect="true"/>
   <file name="podcast.html" crc="252687168" seo="true" mt="1494659851493" redirect="true"/>
   <file name="index.html" crc="421179272" seo="true" mt="1494659806304" redirect="true"/>
